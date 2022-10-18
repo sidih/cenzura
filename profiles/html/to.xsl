@@ -699,11 +699,11 @@
                      </xsl:for-each>
                   </xsl:value-of>
                   <xsl:text>&quot;</xsl:text>
-                  <xsl:text>&#xA;</xsl:text>
+                  <xsl:text>,&#xA;</xsl:text>
                   
                   <!-- Leto -->
                   <xsl:value-of select="concat('&quot;',$playDate,'&quot;')"/>
-                  <xsl:text>,&#xA;</xsl:text>
+                  <xsl:text>&#xA;</xsl:text>
                   
                   <xsl:text>]</xsl:text>
                   <xsl:if test="position() != last()">
