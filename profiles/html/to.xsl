@@ -610,7 +610,7 @@
       </style>
       
       <script>
-         var columnIDs = [1];
+         var columnIDs = [3];
       </script>
       
       <ul class="accordion" data-accordion="" data-allow-all-closed="true">
@@ -657,17 +657,17 @@
             <thead>
                <tr>
                   <th>ID</th>
-                  <th>Datum</th>
                   <th>Naslov</th>
                   <th>Avtor</th>
+                  <th>Datum</th>
                </tr>
             </thead>
             <tfoot>
                <tr>
                   <th></th>
+                  <th><input class="filterInputText" placeholder="Iskanje" type="text"/></th>
+                  <th><input class="filterInputText" placeholder="Iskanje" type="text"/></th>
                   <th><select class="filterSelect"><option value="">Prikaži vse</option></select></th>
-                  <th><input class="filterInputText" placeholder="Iskanje" type="text"/></th>
-                  <th><input class="filterInputText" placeholder="Iskanje" type="text"/></th>
                </tr>
             </tfoot>
             <!--<tbody>-->
@@ -683,10 +683,6 @@
                   <xsl:text>&quot;</xsl:text>
                   <xsl:value-of select="concat('&lt;a href=\&quot;',$playID,'.html','\&quot; target=\&quot;_blank\&quot;&gt;',$playID,'&lt;/a&gt;')"/>
                   <xsl:text>&quot;,&#xA;</xsl:text>
-                  
-                  <!-- Leto -->
-                  <xsl:value-of select="concat('&quot;',$playDate,'&quot;')"/>
-                  <xsl:text>,&#xA;</xsl:text>
                   
                   <!-- Naslov -->
                   <xsl:value-of select="concat('&quot;',normalize-space(tei:head),'&quot;')"/>
@@ -704,6 +700,10 @@
                   </xsl:value-of>
                   <xsl:text>&quot;</xsl:text>
                   <xsl:text>&#xA;</xsl:text>
+                  
+                  <!-- Leto -->
+                  <xsl:value-of select="concat('&quot;',$playDate,'&quot;')"/>
+                  <xsl:text>,&#xA;</xsl:text>
                   
                   <xsl:text>]</xsl:text>
                   <xsl:if test="position() != last()">
