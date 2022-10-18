@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Microsoft Office User</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2022-07-04</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2022-10-16T13:04:51Z</date><name>Microsoft Office User</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p style="text-align:center;"><hi rend="bold" xml:space="preserve">URL: </hi><ref
+                        target="https://sidih.github.io/cenzura/"><hi rend="bold"
+                            >https://sidih.github.io/cenzura/</hi></ref></p>
+                <p style="text-align:center;"><hi rend="bold">Naslovnica</hi></p>
+                <p style="text-align:center;"
+                    ><hi style="font-size:14pt" xml:space="preserve">Gledališka cenzura in uprizoritve Dramatičnega društva v Ljubljani </hi></p>
+                <p style="text-align:center;"><hi style="font-size:14pt">(1873–1914)</hi></p>
+                <p style="text-align:center;">Digitalni repozitorij</p>
+                <p>Digitalni repozitorij
+                        <hi rend="color(393939)" xml:space="preserve">je nastal v okviru raziskovalnega projekta ARRS </hi><hi
+                        rend="italic">Slovenski literati in cesarska cenzura v dolgem 19.
+                        stoletju</hi> (J6-2583). V njem so zbrani dokumentio cenzuri gledaliških
+                    besedil, ki jih je Dramatično društvo nameravalo uprizoriti in je za to moralo
+                    zaprositi Deželno predsedstvo Kranjske. Repozitorij vsebuje popis teh cenzurnih
+                    dokumentov, ki so se ohranili v fondu Deželnega predsedstva za Kranjsko v Arhivu
+                    Republike Slovenije, faksimile dokumentov, kjer je cenzor zahteval določene
+                    posege v besedilo (predvsem izpuste besed in replik) ter še nekaj dokumentov, ki
+                    so povezani s cenzuriranjem gledaliških besedil. <lb/>
+                </p>
+                <p style="text-align:center;"><hi rend="bold color(393939)">Kolofon</hi></p>
+                <p><hi rend="color(393939)">Avtorica in urednica digitalne izdaje: Katja Mihurko
+                        Poniž</hi></p>
+                <p><hi rend="color(393939)">Kodiranje TEI in postavitev na splet: Andrej
+                    Pančur</hi></p>
+                <p><hi rend="color(393939)" xml:space="preserve">Digitalni repozitorij je nastal v okviru raziskovalnega projekta ARRS </hi><hi
+                        rend="italic">Slovenski literati in cesarska cenzura v dolgem 19.
+                        stoletju</hi> (J6-2583).</p>
+                <p>Spletna stran projekta: https://imprimatur.zrc-sazu.si/</p>
+                <p><hi rend="color(393939)">To delo je ponujeno pod </hi><ref
+                        target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons
+                        Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna
+                        licenco</ref><hi rend="color(393939)">.</hi></p>
+                <p style="text-align:center;"><hi rend="bold">Uvodi</hi></p>
+                <p style="text-align:center;"><hi rend="underline">Uvodna beseda</hi></p>
+                <p>Digitalni repozitorij je rezultat projekta <hi rend="italic">Slovenski literati
+                        in cesarska cenzura v dolgem 19. stoletju</hi> (J6-2583), ki ga financira
+                    Agencija za raziskovalno dejavnost Republike Slovenije. </p>
+                <p>Projekt obravnava cenzuro periodike, knjižnega založništva in
+                    gledališča<hi rend="color(393939)" xml:space="preserve"> v slovenskih deželah v habsburški monarhiji (zlasti Kranjska, a tudi Koroška in Štajerska), pri čemer je dogajanje ves čas vpeto v kontekst imperialne cenzure in v kontekst sosednjih literarnih kultur. Časovni okvir je »dolgo 19. stoletje«, torej obdobje 1789–1914, ki ga revolucionarno leto 1848 skoraj simetrično razmejuje na dve fazi: medtem ko v prvi prevladuje preventivna (pred)cenzura, drugo obvladuje zlasti retroaktivna (po)cenzura. Projekt izkorišča prednosti, ki jih prinaša panoramski pogled na t. i. dolgo obdobje (»longue durée«), osredotoča pa se zlasti na cenzuro v ožjem smislu, tj. institucionalizirane oblike nadzora nad cirkulacijo besedil, katerih bistvena razsežnost je zmožnost sankcioniranja (udejanja jo represivni aparat države). </hi></p>
+                <p style="text-align:center;"><hi rend="underline color(393939)">Vsebina
+                        raziskovalnega repozitorija</hi></p>
+                <p style="text-align:center;"><hi rend="italic color(393939)">O cenzuri v gledališču
+                        v habsburški monarhiji</hi></p>
+                <p><hi rend="color(393939)">Kot lahko beremo pri Norbertu Bachleitnerju, je v času
+                        vladavine Marije Terezije postalo gledališče regulirano z različnimi
+                        sistematičnimi oblikami nadzora. Cenzurna komisija, ustanovljena leta 1751,
+                        je pozornost usmerjala predvsem v leposlovje, vendar so bile obscenosti,
+                        nesmislenosti in grobosti tudi v gledališču izpostavljene budnemu
+                        cenzorjevemu nadzoru. Leta 1770 je zato vladarica cenzuro tiska ločila od
+                        cenzure gledališča. Ker je konec 18. stoletja v avstrijskih deželah še
+                        prevladovalo improvizacijsko gledališče, so bile prepovedi povezane predvsem
+                        z njim. Predložitev dramskega besedila, ki je bilo izhodišče za uprizoritev,
+                        je cenzorjem olajšala delo. Med letoma 1770 in1804 je bil glavni cenzor
+                        Franz Karl Hägelin, ki je postavil temelje cenzurnim postopkom v celotni
+                        monarhiji. V 19. stoletju je bila pozornost usmerjena predvsem v tista mesta
+                        v dramatiki, kjer je bilo govora o politiki in državnih ustanovah ter
+                        religiji. V svojih napotkih madžarskim cenzorjem je Hägelin leta 1795
+                        podrobno opredelil, kako naj cenzorji usmerijo svoje delo glede na tri
+                        temeljna področja, kjer gledališče lahko vzbuja neprimerne odzive. Ta
+                        področja so bila napadi na (katoliško) vero, napadi na Avstrijo, njeno vlado
+                        in monarhično načelo nasploh ter prikazi nemoralnih in kaznivih dejanj.
+                        Četrti motiv za cenzorjeve posege v besedilo oziroma zavrnitev je bilo
+                        varovanje časti posameznikov ali skupin ljudi, predvsem aristokracije, pa
+                        tudi poklicnih skupin in narodov.</hi></p>
+                <p><hi rend="color(393939)">Avtoritarna policijska država je vzpostavila sistem,
+                        kjer je bilo gledališče v vsakem kotičku monarhije povsem pod nadzorom,
+                        cenzura se je preobrazila iz sredstva za omiko ljudstva v sredstvo za
+                        represijo vsega, kar se je zdelo povezano s prevratništvom, nespoštljivostjo
+                        do cerkve in razvratom. Ker je država subverzivno moč gledališča v 19.
+                        stoletju videla predvsem v risu političnega, je leta 1803 cesar pooblastil
+                        dvorno policijo za izvajanje cenzure v gledališču. Podeljevanje dovoljenj za
+                        gledališko uprizoritev (torej za programe, besedila in izvajanje dramskih,
+                        opernih, plesnih in glasbenih predstav) je sodilo pod pristojnost Deželnega
+                        predsedstva, natančneje pod policijski oddelek.</hi></p>
+                <p><hi rend="color(393939)">Policija je tako odločala o dovoljenju za uprizoritev,
+                        cenzorji so samo izrekali predloge. Vsa besedila so morala biti dostavljena
+                        v pregled cenzorju in sicer v dveh izvodih, en je bil nato poslan
+                        gledališču, drugega so hranili, da so lahko preverili, ali je gledališče
+                        upoštevalo vse pripombe. Običajno so bila besedila, ki so bila dovoljena na
+                        Dunaju, v krajih v avstrijskih provincah samo potrjena glede na tamkajšnje
+                        mnenje cenzure, to je še posebno veljalo za igre, ki so jih igrali v
+                        Burgtheatru. Nasploh pa je veljala cenzura v drugih mestih monarhije za
+                        liberalnejšo kot v prestolnici. Le redko je cenzura tekste popolnoma
+                        prepovedala, največkrat so bile izražene različne zahteve po spremembah
+                        naslova, črtanju besed ali stavkov, včasih je v cenzurni postopek posegel
+                        celo sam monarh.</hi></p>
+                <p style="text-align:center;"><hi rend="italic color(393939)">Gledališki cenzorji v
+                        Ljubljani v dolgem 19. stoletju</hi></p>
+                <p><hi rend="color(393939)" xml:space="preserve">Kot piše A. Klasinc Škofljanec, je leta 1801 prešla v pristojnost policijskega dvornega oblastva tudi cenzura in od takrat je v okviru policijske direkcije deloval samostojni urad za cenzuro knjig (Bücherrevisionsamt) v Ljubljani. </hi></p>
+                <p><hi rend="color(393939)" xml:space="preserve">Cenzura je nadzorovala tudi gledališče. Ob policijskem uradniku, ki je opravljal stalno vlogo cenzorja, so delovali tudi njegovi svetovalci, iz cenzurnih aktov lahko razberemo, da sta v tej vlogi v začetku 20. stoletja nastopala Fran Milčinski in Anton Funtek. V obdobju 1887–1913, za katerega imamo ohranjene cenzurne akte, ki se nanašajo na uprizoritve Dramatičnega društva, je bil do začetka leta 1909 cenzor policijski svetnik Oskar Wratschko. Wratschko, kot lahko rekonstruiramo iz zapisov, ki jih najdemo v časopisih, ni bil nenaklonjen slovenski besedi. Leta 1885 najdemo njegovo ime v </hi><hi
+                        rend="italic color(393939)">Ljubljanskem listu</hi>
+                    <hi rend="color(393939)" xml:space="preserve">med dokaj redkimi naročniki na Jurčičeva zbrana dela. V </hi><hi rend="italic color(393939)" xml:space="preserve">Slovenskem narodu </hi><hi rend="color(393939)" xml:space="preserve">se je njegovo ime pojavilo ob aretaciji inženirja Matka Prelovška, ki naj bi ga brez pravega povoda aretirali orožniki in se nato sklicevali, da so to naredili, da bi zaščitili Wratschka. </hi><hi
+                        rend="italic color(393939)">Slovenski
+                    narod</hi><hi rend="color(393939)" xml:space="preserve"> je takrat zapisal: »Svetnika Wratschka pozna vsak otrok, vsakdo ve, da je svetnik Wratschko ne le natančen, nego tudi preudaren uradnik, ki iz hudobije še nikdar ni ničesar storil. Sitna je služba policijskega svetnika ali gosp. Wratschko jo je vedno izvrševal taktno in pametno. Imel je svetnik Wratschko že pri nebroj konfliktih intervenirati, a vselej je to storil taktno in obzirno in vselej z uspehom. Svetnik Wratschko ne potrebuje v Ljubljani nobenega varstva, ker njemu ne bo nihče ni žalega storil«.</hi>
+                </p>
+                <p><hi rend="color(393939)" xml:space="preserve">Januarja 1909 je bil Wratschko, kot je bilo zapisano v časniku </hi><hi
+                        rend="italic color(393939)">Narodni dnevnik</hi><hi rend="color(393939)">,
+                        imenovan na novo delovno mesto v Trst, od tam pa so v Ljubljano poslali
+                        uradnika Pertota in Trnovsa. Sklepamo, da sta opravljala tudi naloge
+                        cenzorjev, saj je cenzorjev podpis na nekaterih dokumentih od marca 1909
+                        zapisan s črko P. (domnevamo lahko, da je bil to Mihael Pertot), na drugih
+                        je podpis, ki ga preberemo kot Ternovec (očitno je bil zapis imena v časniku
+                        napačen, saj v Adresarju za Kranjsko (leto 1912) najdemo policijskega
+                        komisarja dr. Stanislava Ternovca.</hi></p>
+                <p><hi rend="color(393939)">V posebno zahtevnih primerih je provincialni cenzor
+                        lahko poslal besedilo tudi na Dunaj, kjer je deloval centralni cenzurni
+                        urad. Akt o cenzuriranju drame je vseboval podatke o delu in v primeru, da
+                        ni bilo nič spornega, je delo dobilo oznako, da se uprizoritev dovoli.
+                        Običajna dikcija za zahtevane spremembe pa se je glasila, da se dovoli
+                        uprizoritev, če bodo izpuščena mesta, ki jih je cenzor včasih v celoti
+                        navedel, včasih pa je zapisal le strani in dodal, da so črte označene v
+                        predloženem besedilu. Obrazci so bili v nemščini, za slovenske predstave so
+                        uporabljali obrazec, v katerem je bil del besedila v slovenščini. Navajamo
+                        prepis in prevod obrazca (v oglatih oklepajih), kjer je črta, je uradnik
+                        vpisal podatke.</hi></p>
+                <p><hi rend="color(393939)">Theater-Direktor</hi>
+                </p>
+                <p><hi rend="color(393939)">[Gledališki direktor]</hi></p>
+                <p><hi rend="color(393939)">______________</hi></p>
+                <p><hi rend="color(393939)">legt vor das zur Aufführung am landschaftlichen Theater
+                        in Laibach bestimmte Bühnenstück:</hi></p>
+                <p><hi rend="color(393939)">____________</hi></p>
+                <p><hi rend="color(393939)">[predloži za uprizoritev v deželnem gledališču v
+                        Ljubljani namenjeno odrsko delo:]</hi></p>
+                <p><hi rend="color(393939)">Nach genauer Durchsicht als Erledigung:</hi></p>
+                <p><hi rend="color(393939)">[Po natančnem pregledu izreka odločitev:]</hi></p>
+                <p><hi rend="color(393939)">Die Aufführung diese ____ auf dem hiesigen
+                        landschaftlichen Theater wird dem Direktor Herrn ______ bewilligt.</hi></p>
+                <p><hi rend="color(393939)">Predstava ______ v tukajšnjem deželnem gledališču
+                        dovoljuje se dramatičnemu društvu v Ljubljani.</hi>
+                </p>
+                <p style="text-align:center;"><hi rend="italic color(393939)">Viri
+                    repozitorija</hi></p>
+                <p><hi rend="color(393939)">Cenzuro v gledališču lahko raziskujemo na podlagi
+                        pomembnih zgodovinskih virov – cenzurnih aktov Deželnega predsedstva za
+                        Kranjsko, ki jih hrani Arhiv Slovenije in vpisnika dovoljenih in
+                        cenzuriranih gledaliških predstav 1896–1913 (AS, 16, konvoluti IV. serije,
+                        policijski spisi, prošnje za izvajanje prireditev, predstav in podeljevanje
+                        dovoljenj zanj; enote, ki smo jih pregledali, so shranjene v škatlah 165,
+                        166, 167, 168, 168a, 168b, 169).</hi>
+                </p>
+                <p><hi rend="color(393939)">V digitalni repozitorij so vključeni podatki in gradivo
+                        o gledaliških uprizoritvah Dramatičnega društva, torej slovenskih
+                        uprizoritev v Deželnem gledališču v Ljubljani. Omenjeni fond sicer hrani
+                        tudi spise o podeljevanju dovoljenj za uprizoritve Nemškega gledališkega
+                        društva in uprizoritve različnih društev, vendar teh nismo
+                    vključili.</hi></p>
+                <p><hi rend="color(393939)">V repozitorij smo dodali tudi podatek o tem, ali je
+                        ohranjen cenzorski izvod. Knjižnica Slovenskega gledališkega inštituta hrani
+                        besedila iz knjižnice Dramatičnega društva in med tem gradivom so tudi
+                        izvodi, v katerih najdemo beležko o podelitvi dovoljenja za uprizoritev in
+                        cenzorjeve črte. Spisi, ki jih hrani Arhiv Slovenije, imajo namreč v
+                        številnih primerih navedene le strani, na katerih je besedilo, ki se ga ne
+                        sme izgovoriti na odru, zato je za podrobnejšo raziskavo pomemben vir
+                        cenzorski izvod. Vsi cenzorski izvodi se niso ohranili, tako da v določenih
+                        primerih ni več mogoče rekonstruirati cenzorjevih črt.</hi></p>
+                <p><hi rend="color(393939)">Naslovi cenzuriranih del se v nekaterih primerih
+                        razlikujejo od tistih, ki jih najdemo v Repertoarju slovenskih gledališč
+                        (1867-1967), očitno so jih lahko gledališčniki nekoliko spremenili. Navajamo
+                        zapis naslova na cenzurnem aktu, saj je spremenjen naslov mogoče najti s
+                        podatkom o datumu uprizoritve. V nekaterih primerih do uprizoritve ni prišlo
+                        kljub dovoljenju, včasih se je zgodila nekaj let kasneje. Uprizoritev po
+                        letu 1914 nismo navedli, saj niso v povezavi z navedenimi cenzurnimi
+                        akti.</hi></p>
+                <p style="text-align:center;"><hi rend="italic color(393939)">Struktura
+                        repozitorija</hi></p>
+                <p><hi rend="color(393939)" xml:space="preserve">Repozitorij je zgrajen po kronološkem ključu. Iz Vpisnika dovoljenih gledaliških predstav in spisov o podeljevanju dovoljenja smo zbrali podatke, ki vsebujejo: </hi></p>
+                <list type="ordered">
+                    <item><hi rend="color(393939)">Signaturo dokumenta v Arhivu Slovenije (AS 16 –
+                            fond Deželno predsedstvo, številka škatle, številka spisa)</hi></item>
+                    <item><hi rend="color(393939)">Ime avtorja oz. avtorice besedila, za katerega
+                            Dramatično društvo prosi za dovoljenje za uprizoritev</hi></item>
+                    <item><hi rend="color(393939)" xml:space="preserve">Naslov dela </hi></item>
+                    <item><hi rend="color(393939)">Podatek o tem, ali je bila dovoljena
+                            uprizoritev</hi></item>
+                    <item><hi rend="color(393939)">Podatek o tem, ali je cenzor zahteval spremembe v
+                            besedilu (črtanje besed oz. stavkov)</hi></item>
+                    <item><hi rend="color(393939)">Podatek o tem, na kaj se je nanašal cenzorjev
+                            zahtevek glede na temo, ki je bila sporna za cenzorja: a) morala, b)
+                            cerkev, c) državne ustanove</hi></item>
+                    <item><hi rend="color(393939)">Podatek o tem, ali je v knjižnici Slovenskega
+                            gledališkega inštituta ohranjeno besedilo in ali gre za cenzorjev izvod
+                            (v tem primeru je pred signaturo dodana črka C, npr.
+                        C/DD709)</hi></item>
+                    <item><hi rend="color(393939)">Podatek o tem, ali oziroma kdaj je bilo delo
+                            uprizorjeno.</hi></item>
+                </list>
+                <p><hi rend="color(393939)">V repozitoriju so, poleg zgoraj navedenih podatkov, tudi
+                        povezave na skenograme spisov, kjer je cenzor zahteval črtanje in vpisnik
+                        dovoljenih gledaliških predstav (1896–1913).</hi>
+                </p>
+                <p style="text-align:center;"><hi rend="italic color(393939)">Literatura</hi></p>
+                <p><hi rend="color(393939)">Adresar. </hi><ref
+                        target="https://www.dlib.si/results/?query=%27keywords=Mulley%20&amp;%20Kamen%C5%A1ek%27&amp;fpublisher=Mulley%20&amp;%20Kamen%C5%A1ek"
+                        >Mulley &amp; Kamenšek</ref><hi rend="color(393939)">, 1912.
+                        &lt;http://www.dlib.si/?URN=URN:NBN:SI:DOC-EEQRBZF6&gt;</hi></p>
+                <p><hi rend="smallcaps">Anon</hi>, 1909: Kranjske novice. <hi rend="italic">Narodni
+                        dnevnik</hi>, 27. 1. 1909, str. 3.</p>
+                <p><hi rend="smallcaps"
+                        >Anon</hi><hi rend="color(393939)" xml:space="preserve">, 1885: Domače stvari. </hi><hi
+                        rend="italic color(393939)">Ljubljanski list</hi><hi rend="color(393939)">,
+                        8. 4. 1885, str. 3.</hi></p>
+                <p><hi rend="smallcaps"
+                        >Anon</hi><hi rend="color(393939)" xml:space="preserve">, 1908: Orožniki pri demonstracijah. </hi><hi
+                        rend="italic color(393939)">Slovenski narod</hi><hi rend="color(393939)">,
+                        22. 10. 1908, str. 1.</hi></p>
+                <p><hi rend="smallcaps">Bachleitner, Norbert</hi>, 2010: Die Theaterzensur in der
+                    Habsburgermonarchie</p>
+                <p>im 19. Jahrhundert. <hi rend="italic">LiThes</hi> 3, št. 5, str. 71–105.</p>
+                <p><hi rend="smallcaps">Bachleitner, Norbert</hi>, 2017: <hi rend="italic">Die
+                        literarische Zensur in Österreich</hi>. Wien, Köln, Weimar: Böhlau.</p>
+                <p><hi rend="smallcaps">Bachleitner, Norbert</hi>, 2018: Maria Theresia und die
+                    Zensur. <hi rend="italic">Hungarian Studies</hi> 32, št. 2, str. 165–176.</p>
+                <p><hi rend="smallcaps">Gostiševa, Nevenka</hi> et. al, 1967: <hi rend="italic"
+                        >Repertoar slovenskih gledališč 1867-1967</hi>. Ljubljana: Slovenski
+                    gledališki muzej.</p>
+                <p><hi rend="smallcaps">Klasinc Škofljanec</hi>, Andreja, 2010: Ljubljanska policija
+                    od konca 18. stoletja do 1848. Acta Histriae 18, št. 3, str. 539–556.</p>
+                <p style="text-align:center;"><hi rend="bold color(393939)">Dokumenti</hi></p>
+                <p style="text-align:center;"><hi rend="bold color(393939)">Filtri</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>
