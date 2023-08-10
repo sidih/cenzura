@@ -238,12 +238,12 @@
    <xsl:template match="tei:figure[ancestor::tei:body][not(tei:graphic)]">
       
    </xsl:template>
-   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+   <!--<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
       <desc>samo slika naslovnice ali pa galerija slik</desc>
    </doc>
    <xsl:template match="tei:figure[ancestor::tei:body][tei:graphic]">
       <xsl:choose>
-         <!-- začasno tisti, kjer so slike na Emoncu: ko urediš, briši head -->
+         <!-\- začasno tisti, kjer so slike na Emoncu: ko urediš, briši head -\->
          <xsl:when test="tei:head">
             <xsl:choose>
                <xsl:when test="tei:graphic[2]">
@@ -380,7 +380,7 @@
                });
                
                wrapper.find('.prev').click(function(){
-               curImageIdx--;
+               curImageIdx-\-;
                if(curImageIdx < 0) curImageIdx = total;
                showImage();
                });
@@ -393,7 +393,7 @@
                   <br/>
                </xsl:when>
                <xsl:otherwise>
-                  <!-- v resnici samo ena slika -->
+                  <!-\- v resnici samo ena slika -\->
                   <xsl:for-each select="tei:graphic">
                      <xsl:variable name="image"
                         select="substring-before(tokenize(@url,'\|')[last()], '/info.json')"/>
@@ -425,7 +425,7 @@
                </xsl:otherwise>
             </xsl:choose>
          </xsl:when>
-         <!-- redno procesiranje slik iz IIIF -->
+         <!-\- redno procesiranje slik iz IIIF -\->
          <xsl:otherwise>
             <br/>
             <div id="{@xml:id}"
@@ -453,7 +453,7 @@
             <br/>
          </xsl:otherwise>
       </xsl:choose>
-   </xsl:template>
+   </xsl:template>-->
    
    <xsldoc:doc xmlns:xsldoc="http://www.oxygenxml.com/ns/doc/xsl">
       <xsldoc:desc>Dodam zaključni javascript za ImageViewer</xsldoc:desc>
@@ -568,6 +568,7 @@
                <xsl:when test="@type='church'">Cerkev:</xsl:when>
                <xsl:when test="@type='state_institutions'">Državne institucije:</xsl:when>
                <xsl:when test="@type='politics'">Politika:</xsl:when>
+               <xsl:when test="@type='facs'">Faksimile:</xsl:when>
             </xsl:choose>
          </div>
          <div style="flex: 1;">
@@ -1715,7 +1716,7 @@
       <xsl:for-each select="ancestor::tei:TEI/tei:teiHeader/tei:profileDesc/tei:abstract">
          <xsl:choose>
             <xsl:when test="@xml:lang = 'sl'">
-               <p>
+               <p style="text-align:justify;">
                   <xsl:text>POVZETEK: </xsl:text>
                   <xsl:value-of select="."/>
                </p>
@@ -1739,6 +1740,13 @@
       <br/>
       
    </xsl:template>
-   
+      
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc>dodal pdf</desc>
+   </doc>
+   <xsl:template match="tei:figure[@type = 'appPDF']">
+      <br></br>
+      <embed src="{tei:graphic/@url}" type="application/pdf" height="1400" width="100%"/>
+   </xsl:template>
    
 </xsl:stylesheet>
