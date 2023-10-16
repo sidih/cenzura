@@ -117,22 +117,13 @@ $(document).ready(function() {
 				}
 			},*/
 			{
-				extend: 'csvHtml5',
-				exportOptions: {
-					columns: ':visible'
-				}
+				extend: 'csvHtml5'
 			},
 			{
-				extend: 'excelHtml5',
-				exportOptions: {
-					columns: ':visible'
-				}
+				extend: 'excelHtml5'
 			},
 			{
-				extend: 'pdfHtml5',
-				exportOptions: {
-					columns: ':visible'
-				}
+				extend: 'pdfHtml5'
 			}
 		],
 		colReorder: true,

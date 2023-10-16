@@ -59,10 +59,10 @@
    <xsl:param name="localWebsite">false</xsl:param>
    
    <!-- Iz datoteke ../../../../publikacije-XSLT/sistory/html5-foundation6-chs/to.xsl -->
-   <xsl:param name="outputDir">docs/</xsl:param>
+   <xsl:param name="outputDir">docs_v3/</xsl:param>
    
    <xsl:param name="homeLabel">Cenzura</xsl:param>
-   <xsl:param name="homeURL">https://sidih.si/</xsl:param>
+   <xsl:param name="homeURL">https://sidih.github.io/cenzura/</xsl:param>
    
    <xsl:param name="splitLevel">0</xsl:param>
    
@@ -500,7 +500,7 @@
    </doc>
    <xsl:template match="tei:docAuthor[ancestor::tei:body]">
       <div style="line-height: 25px; margin-bottom: 3px; display: flex; flex-direction: row;">
-         <div style="width: 200px;">Avtor dela:</div>
+         <div style="width: 200px;">Avtor cenzurirane drame:</div>
          <div style="flex: 1;">
             <xsl:value-of select="normalize-space(.)"/>
          </div>
@@ -512,7 +512,7 @@
    </doc>
    <xsl:template match="tei:docDate[ancestor::tei:body]">
       <div style="line-height: 25px; margin-bottom: 3px; display: flex; flex-direction: row;">
-         <div style="width: 200px;">Datum:</div>
+         <div style="width: 200px;">Datum dokumenta:</div>
          <div style="flex: 1;">
             <xsl:value-of select="normalize-space(.)"/>
          </div>
@@ -524,7 +524,7 @@
    </doc>
    <xsl:template match="tei:note[ancestor::tei:body][@type='idno'][tei:idno[@type='ARS']]">
       <div style="line-height: 25px; margin-bottom: 3px; display: flex; flex-direction: row;">
-         <div style="width: 200px;">Signatura:</div>
+         <div style="width: 200px;">Signatura ARS:</div>
          <div style="flex: 1;">
             <xsl:value-of select="normalize-space(tei:idno)"/>
          </div>
@@ -536,7 +536,7 @@
    </doc>
    <xsl:template match="tei:note[ancestor::tei:body][@type='idno'][tei:idno[@type='SLOGI']]">
       <div style="line-height: 25px; margin-bottom: 3px; display: flex; flex-direction: row;">
-         <div style="width: 200px;">Signatura SLOGI:</div>
+         <div style="width: 200px;">Signatura izvoda SLOGI:</div>
          <div style="flex: 1;">
             <xsl:value-of select="normalize-space(tei:idno)"/>
          </div>
@@ -562,12 +562,12 @@
       <div style="line-height: 25px; margin-bottom: 3px; display: flex; flex-direction: row;" id="{@xml:id}">
          <div style="width: 200px;">
             <xsl:choose>
-               <xsl:when test="@type='accepted'">Sprejeto:</xsl:when>
+               <xsl:when test="@type='accepted'">Cenzura:</xsl:when>
                <xsl:when test="@type='claim'">Zahtevek:</xsl:when>
-               <xsl:when test="@type='morality'">Morala:</xsl:when>
-               <xsl:when test="@type='church'">Cerkev:</xsl:when>
-               <xsl:when test="@type='state_institutions'">Državne institucije:</xsl:when>
-               <xsl:when test="@type='politics'">Politika:</xsl:when>
+               <xsl:when test="@type='morality'">Področje cenzure - morala:</xsl:when>
+               <xsl:when test="@type='church'">Področje cenzure - religija:</xsl:when>
+               <xsl:when test="@type='state_institutions'">Področje cenzure - državne institucije:</xsl:when>
+               <xsl:when test="@type='politics'">Področje cenzure - politika:</xsl:when>
                <xsl:when test="@type='facs'">Faksimile:</xsl:when>
             </xsl:choose>
          </div>
@@ -660,7 +660,12 @@
                   <th>ID</th>
                   <th>Naslov</th>
                   <th>Avtor</th>
+                  <th>Cenzura</th>
                   <th>Datum</th>
+                  <th>Področje cenzure: morala</th>
+                  <th>Področje cenzure: religija</th>
+                  <th>Področje cenzure: politika</th>
+                  <th>Področje cenzure: državne institucije</th>
                </tr>
             </thead>
             <tfoot>
@@ -669,15 +674,25 @@
                   <th><input class="filterInputText" placeholder="Iskanje" type="text"/></th>
                   <th><input class="filterInputText" placeholder="Iskanje" type="text"/></th>
                   <th><select class="filterSelect"><option value="">Prikaži vse</option></select></th>
+                  <th><input class="filterInputText" placeholder="Iskanje" type="text"/></th>
+                  <th><input class="filterInputText" placeholder="Iskanje" type="text"/></th>
+                  <th><input class="filterInputText" placeholder="Iskanje" type="text"/></th>
+                  <th><input class="filterInputText" placeholder="Iskanje" type="text"/></th>
+                  <th><input class="filterInputText" placeholder="Iskanje" type="text"/></th>
                </tr>
             </tfoot>
             <!--<tbody>-->
-            <xsl:result-document href="docs/data-main.json" method="text" encoding="UTF-8">
+            <xsl:result-document href="docs_v3/data-main.json" method="text" encoding="UTF-8">
                <xsl:text>{
   "data": [&#xA;</xsl:text>
                <xsl:for-each select="//tei:body/tei:div">
                   <xsl:variable name="playID" select="@xml:id"/>
                   <xsl:variable name="playDate" select="tei:docDate/@when"/>
+                  <xsl:variable name="playCensor" select="tei:label[1]"/>
+                  <xsl:variable name="playMorality" select="tei:label[@type='morality']"/>
+                  <xsl:variable name="playChurch" select="tei:label[@type='church']"/>
+                  <xsl:variable name="playPolitics" select="tei:label[@type='politics']"/>
+                  <xsl:variable name="playInst" select="tei:label[@type='state_institutions']"/>
                   <xsl:text>[&#xA;</xsl:text>
                   
                   <!-- ID -->
@@ -702,9 +717,30 @@
                   <xsl:text>&quot;</xsl:text>
                   <xsl:text>,&#xA;</xsl:text>
                   
+                  <!-- Cenzura -->
+                  <xsl:value-of select="concat('&quot;',$playCensor,'&quot;')"/>
+                  <xsl:text>,&#xA;</xsl:text>
+                  
                   <!-- Leto -->
                   <xsl:value-of select="concat('&quot;',$playDate,'&quot;')"/>
+                  <xsl:text>,&#xA;</xsl:text>
+                  
+                  <!-- Cenzura Moralnost -->
+                  <xsl:value-of select="concat('&quot;',$playMorality,'&quot;')"/>
+                  <xsl:text>,&#xA;</xsl:text>
+                  
+                  <!-- Cenzura religija-->
+                  <xsl:value-of select="concat('&quot;',$playChurch,'&quot;')"/>
+                  <xsl:text>,&#xA;</xsl:text>
+                  
+                  <!-- Cenzura politika-->
+                  <xsl:value-of select="concat('&quot;',$playPolitics,'&quot;')"/>
+                  <xsl:text>,&#xA;</xsl:text>
+                  
+                  <!-- Cenzura državne institucije-->
+                  <xsl:value-of select="concat('&quot;',$playInst,'&quot;')"/>
                   <xsl:text>&#xA;</xsl:text>
+                  
                   
                   <xsl:text>]</xsl:text>
                   <xsl:if test="position() != last()">
@@ -1717,8 +1753,9 @@
          <xsl:choose>
             <xsl:when test="@xml:lang = 'sl'">
                <p style="text-align:justify;">
-                  <xsl:text>POVZETEK: </xsl:text>
-                  <xsl:value-of select="."/>
+                  <!--<xsl:text>POVZETEK: </xsl:text>-->
+                  <!--<xsl:copy-of select="."/>-->
+                  Digitalni repozitorij je nastal v okviru raziskovalnega projekta ARRS Slovenski literati in cesarska cenzura v dolgem 19. stoletju (J6-2583) (2020-2023) <a href="https://imprimatur.zrc-sazu.si/">https://imprimatur.zrc-sazu.si/</a>. V njem so zbrani dokumenti o cenzuri gledaliških besedil, ki jih je Dramatično društvo nameravalo uprizoriti in je za to moralo zaprositi Deželno predsedstvo Kranjske. Repozitorij vsebuje popis teh cenzurnih dokumentov, ki so se ohranili v fondu Deželnega predsedstva za Kranjsko v Arhivu Republike Slovenije, faksimile dokumentov, kjer je cenzor zahteval določene posege v besedilo (predvsem izpuste besed in replik) ter še nekaj dokumentov, ki so povezani s cenzuriranjem gledaliških besedil.
                </p>
                <br/>
                <br/>
@@ -1726,7 +1763,7 @@
             <xsl:when test="@xml:lang = 'en'">
                <p>
                   <xsl:text>ABSTRACT: </xsl:text>
-                  <xsl:value-of select="."/>
+                  <xsl:copy-of select="."/>
                </p>
                <br/>
                <br/>
@@ -1747,6 +1784,74 @@
    <xsl:template match="tei:figure[@type = 'appPDF']">
       <br></br>
       <embed src="{tei:graphic/@url}" type="application/pdf" height="1400" width="100%"/>
+   </xsl:template>
+   
+   <xsldoc:doc xmlns:xsldoc="http://www.oxygenxml.com/ns/doc/xsl">
+      <xsldoc:desc> Dodaten link v kolofonu takoj za naslovom </xsldoc:desc>
+   </xsldoc:doc>
+   <xsl:template match="tei:titleStmt" mode="kolofon">
+      <!-- avtor -->
+      <p>
+         <xsl:for-each select="tei:author">
+            <span itemprop="author">
+               <xsl:choose>
+                  <xsl:when test="tei:forename or tei:surname">
+                     <xsl:for-each select="tei:forename">
+                        <xsl:value-of select="."/>
+                        <xsl:if test="position() ne last()">
+                           <xsl:text> </xsl:text>
+                        </xsl:if>
+                     </xsl:for-each>
+                     <xsl:if test="tei:surname">
+                        <xsl:text> </xsl:text>
+                     </xsl:if>
+                     <xsl:for-each select="tei:surname">
+                        <xsl:value-of select="."/>
+                        <xsl:if test="position() ne last()">
+                           <xsl:text> </xsl:text>
+                        </xsl:if>
+                     </xsl:for-each>
+                  </xsl:when>
+                  <xsl:otherwise>
+                     <xsl:value-of select="."/>
+                  </xsl:otherwise>
+               </xsl:choose>
+            </span>
+            <xsl:if test="position() != last()">
+               <br/>
+            </xsl:if>
+         </xsl:for-each>
+      </p>
+      <!-- Naslov mora vedno biti, zato ne preverjam, če obstaja. -->
+      <p itemprop="name">
+         <xsl:for-each select="tei:title[1]">
+            <b><xsl:value-of select="."/></b>
+            <xsl:if test="following-sibling::tei:title">
+               <xsl:text> : </xsl:text>
+            </xsl:if>
+            <xsl:for-each select="following-sibling::tei:title">
+               <xsl:value-of select="."/>
+               <xsl:if test="position() != last()">
+                  <xsl:text>, </xsl:text>
+               </xsl:if>
+            </xsl:for-each>
+         </xsl:for-each>
+      </p>
+      <br/>
+      <br/>
+      <xsl:apply-templates select="tei:respStmt" mode="kolofon"/>
+      <br/>
+      <xsl:if test="tei:funder">
+         <xsl:for-each select="tei:funder">
+            <p itemprop="funder">
+               <xsl:value-of select="."/>
+            </p>
+            <p>
+               <a href="https://imprimatur.zrc-sazu.si/">https://imprimatur.zrc-sazu.si/</a>
+            </p>
+         </xsl:for-each>
+      </xsl:if>
+      <br/>
    </xsl:template>
    
 </xsl:stylesheet>
