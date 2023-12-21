@@ -9,6 +9,10 @@
                <name>Katja Mihurko Poniž</name>
             </respStmt>
             <respStmt>
+               <resp>Avtorica vizualizacij</resp>
+               <name>Mila Marinković</name>
+            </respStmt>
+            <respStmt>
                <resp>Kodiranje TEI in postavitev na splet</resp>
                <name>Andrej Pančur</name>
                <name>Mihael Ojsteršek</name>
@@ -60,7 +64,7 @@
             <docImprint>
                <publisher>Inštitut za novejšo zgodovino</publisher>
                <pubPlace>Ljubljana</pubPlace>
-               <docDate>2022</docDate>
+               <docDate>2023</docDate>
             </docImprint>
          </titlePage>
          <divGen type="cip" xml:id="cip">
@@ -278,13 +282,11 @@
       <docAuthor>Nikolaj Vasiljevič Gogolj</docAuthor>
       <docDate when="1887-01-04">4.1.1887</docDate>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>9. 1. 1887</date>
       </stage>
@@ -297,13 +299,11 @@
       <docDate when="1887-04-27">27.4. 1887</docDate>
       <docAuthor>Karl Görlitz </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>30. 4. 1887</date>
       </stage>
@@ -316,8 +316,8 @@
       <docDate when="1889-06-21">21.6. 1889</docDate>
       <docAuthor>Josip Vošnjak </docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
+      
+      
       <label type="politics">DA</label>
       <label type="state_institutions">DA</label>
       <note type="idno">
@@ -335,13 +335,11 @@
       <docDate when="1889-01-29">29.1.1889</docDate>
       <docAuthor>Franz Nissel</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>27. 1. 1889</date>
       </stage>
@@ -354,13 +352,11 @@
       <docDate when="1889-03-09">9.3. 1889</docDate>
       <docAuthor>August Kotzebue</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>17. 3. 1889</date>
       </stage>
@@ -373,13 +369,11 @@
       <docDate when="1891-05-10">10.5. 1891</docDate>
       <docAuthor>Josef Štolba</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -392,13 +386,11 @@
       <docDate when="1891-09-30">30. 9. 1891</docDate>
       <docAuthor>Josef Štolba</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>18. 10. 1891</date>
       </stage>
@@ -411,13 +403,11 @@
       <docDate when="1891-10-30">30.10.1891</docDate>
       <docAuthor>Georges Ohnet</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>13. 2. 1892</date>
       </stage>
@@ -430,13 +420,11 @@
       <docDate when="1891-10-03">3.10.1891</docDate>
       <docAuthor>Gustav Moser</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>14. 10. 1894</date>
       </stage>
@@ -449,13 +437,11 @@
       <docDate when="1892-03-20">20.3. 1892</docDate>
       <docAuthor>Henrik Ibsen</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>27. 3. 1892</date>
       </stage>
@@ -469,13 +455,11 @@
       <docDate when="1893-02-14">14.2.1893</docDate>
       <docAuthor>Adrien Decourcelle/Thiboust Lambert</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>15. 4. 1877</date>
       </stage>
@@ -489,13 +473,11 @@
       <docDate when="1893-09-23">23. 9. 1893</docDate>
       <docAuthor>Albin Albini</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -509,13 +491,11 @@
       <docDate when="1894-04-17">17.4.1894</docDate>
       <docAuthor>Salomon Hermann Mosenthal</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>19. 4. 1874</date>
       </stage>
@@ -529,13 +509,11 @@
       <docDate when="1894-08-01">1.8.1894</docDate>
       <docAuthor>Josef Freudenreich</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>9. 10. 1894</date>
       </stage>
@@ -549,13 +527,11 @@
       <docDate when="1894-08-01">1.8.1894</docDate>
       <docAuthor>Giovanni Verga</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -569,10 +545,10 @@
       <docDate when="1894-08-01">1.8.1894</docDate>
       <docAuthor>J.Böhm</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">DD/722</idno>
       </note>
@@ -589,10 +565,10 @@
       <docDate when="1894-08-01">1.8.1894</docDate>
       <docAuthor>Friedrich Schiller</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD669</idno>
       </note>
@@ -609,13 +585,11 @@
       <docDate when="1894-08-02">2.8.1894</docDate>
       <docAuthor>Mihael Klappe </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -629,13 +603,11 @@
       <docDate when="1894-08-02">2.8.1894</docDate>
       <docAuthor>Avtor ni naveden</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -649,13 +621,11 @@
       <docDate when="1894-08-02">2.8.1894</docDate>
       <docAuthor>Émile Girardin</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -669,13 +639,11 @@
       <docDate when="1894-08-09">9.8.1894</docDate>
       <docAuthor>F.W. Hackländer</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -689,13 +657,11 @@
       <docDate when="1894-08-09">9.8.1894</docDate>
       <docAuthor>Almosi Tohamer</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -709,13 +675,11 @@
       <docDate when="1894-08-09">9. 8. 1894</docDate>
       <docAuthor>Jean-François-Alfre Bayard/Vanderbruch</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>22. 12. 1894</date>
       </stage>
@@ -729,13 +693,11 @@
       <docDate when="1894-08-18">18.8.1894</docDate>
       <docAuthor>Avtor ni naveden</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -749,13 +711,11 @@
       <docDate when="1894-08-18">18.8.1894</docDate>
       <docAuthor>Emil Pohl</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>9. 10. 1900</date>
       </stage>
@@ -769,13 +729,11 @@
       <docDate when="1894-08-18">18.8.1894</docDate>
       <docAuthor> Vasiljevič Spažinskij</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>1. 10. 1908</date>
       </stage>
@@ -789,13 +747,11 @@
       <docDate when="1894-08-18">18.8.1894</docDate>
       <docAuthor>Josef Kellerer</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -809,13 +765,11 @@
       <docDate when="1894-09-08">8. 9. 1894 </docDate>
       <docAuthor>Jaroslav Vrhlicky</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>6. 11. 1894</date>
       </stage>
@@ -829,13 +783,11 @@
       <docDate when="1894-09-14">14. 9. 1894</docDate>
       <docAuthor>Ippolit Vasil'evič Spažinskij</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -849,13 +801,11 @@
       <docDate when="1894-03-31">31.3. 1894</docDate>
       <docAuthor>Blumenthal/Kadelburg</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>20. 11. 1894</date>
       </stage>
@@ -869,13 +819,11 @@
       <docDate when="1894-11-07">7. 11. 1894</docDate>
       <docAuthor>Alphonse ODOBRENOudet/ Adolphe Belot</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>10. 1. 1895</date>
       </stage>
@@ -889,13 +837,11 @@
       <docDate when="1894-02-18">18.2.1894</docDate>
       <docAuthor>Alexandre Dumas</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>25. 2. 1894</date>
       </stage>
@@ -909,13 +855,11 @@
       <docDate when="1895-02-03">3.2. 1895</docDate>
       <docAuthor>František Adolf Šubert</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>5. 2. 1895</date>
       </stage>
@@ -929,13 +873,11 @@
       <docDate when="1895-09-29">29.9.1895</docDate>
       <docAuthor>František Svoboda</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>1. 10. 1895</date>
       </stage>
@@ -949,13 +891,11 @@
       <docDate when="1895-10-05">5.10. 1895</docDate>
       <docAuthor>Adolphe Dennery/Eugene Cormon</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>6. 10. 1895</date>
       </stage>
@@ -970,12 +910,10 @@
       <docAuthor>Alexandre-Charles-Auguste Bisson</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
       <stage type="time">
          <date>23. 11. 1895</date>
       </stage>
@@ -989,13 +927,11 @@
       <docDate when="1895-12-19">19. 12. 1895</docDate>
       <docAuthor>Karl Costa</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -1009,13 +945,11 @@
       <docDate when="1896-03-28">28. 3. 1896</docDate>
       <docAuthor>Johann Wolfgang von Goethe</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>21. 12. 1895</date>
       </stage>
@@ -1029,13 +963,11 @@
       <docDate when="1896-09-28">28.9.1896</docDate>
       <docAuthor>Anton Funtek</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>31. 3. 1896</date>
       </stage>
@@ -1049,13 +981,11 @@
       <docDate when="1896-10-08">8.10. 1896</docDate>
       <docAuthor>Adolf L'Arronge</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>1. 10. 1896</date>
       </stage>
@@ -1071,11 +1001,9 @@
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>8. 10. 1896</date>
       </stage>
@@ -1089,13 +1017,11 @@
       <docDate when="1896-11-07">7.11.1896</docDate>
       <docAuthor>Harry Paulton/E. A. Paulton</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>13. 11. 1896</date>
       </stage>
@@ -1109,13 +1035,11 @@
       <docDate when="1896-11-21">21.11.1896</docDate>
       <docAuthor>N. Fournier/ Meyer</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>2. 10. 1898</date>
       </stage>
@@ -1129,13 +1053,11 @@
       <docDate when="1896-12-09">9.12. 1896</docDate>
       <docAuthor>A. Jirasek</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>24. 11. 1896</date>
       </stage>
@@ -1149,13 +1071,11 @@
       <docDate when="1896-12-31">31.12. 1896</docDate>
       <docAuthor>Lope Felix Vega Carpio</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>11.12. 1896</date>
       </stage>
@@ -1169,13 +1089,11 @@
       <docDate when="1896-01-17">17.1.1896</docDate>
       <docAuthor>Ferdinand Raimund</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -1189,13 +1107,11 @@
       <docDate when="1896-04-14">14.4.1896</docDate>
       <docAuthor>Jean-François-Alfre Bayard/Vanderbruch</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>4. 4. 1895</date>
       </stage>
@@ -1209,13 +1125,11 @@
       <docDate when="1896-02-17">17.2.1896</docDate>
       <docAuthor>H. Uhde</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>30. 4. 1876</date>
       </stage>
@@ -1229,13 +1143,11 @@
       <docDate when="1897-12-02">2. 12. 1897</docDate>
       <docAuthor>Viktor Aleksandrovič Krylov</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>27. 11. 1876</date>
       </stage>
@@ -1249,13 +1161,11 @@
       <docDate when="1897-09-24">24. 9. 1897</docDate>
       <docAuthor>Radoslav Murnik</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>2.12. 1897</date>
       </stage>
@@ -1269,13 +1179,11 @@
       <docDate when="1897-09-24">24. 9. 1897</docDate>
       <docAuthor>William Shakespeare</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>12. 10. 1897</date>
       </stage>
@@ -1289,13 +1197,11 @@
       <docDate when="1897-01-17">17.1.1897</docDate>
       <docAuthor>Josip Ogrinc</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>1. 10. 1897</date>
       </stage>
@@ -1309,13 +1215,11 @@
       <docDate when="1897-01-04">4. 1. 1897</docDate>
       <docAuthor>Jaroslav Vrhlicky</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>19. 1. 1897</date>
       </stage>
@@ -1329,13 +1233,11 @@
       <docDate when="1898-02-28">28.2.1898</docDate>
       <docAuthor>William Shakespeare</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>5. 1. 1897</date>
       </stage>
@@ -1349,9 +1251,9 @@
       <docDate when="1898-12-31">31.12.1898</docDate>
       <docAuthor>Hans Neuert</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
+      
       <label type="state_institutions">DA</label>
       <note type="idno">
          <idno type="SLOGI">C/DD619</idno>
@@ -1371,11 +1273,9 @@
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -1390,12 +1290,10 @@
       <docAuthor>Anton Tomaž Linhart</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
       <stage type="time">
          <date>21. 9. 1899</date>
       </stage>
@@ -1409,10 +1307,10 @@
       <docDate when="1898-12-16">16.12. 1898</docDate>
       <docAuthor>EngelbertGangl</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">DD/460</idno>
       </note>
@@ -1429,13 +1327,11 @@
       <docDate when="1898-11-26">26.11 1898</docDate>
       <docAuthor>Anton Medved </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>20. 12. 1898</date>
       </stage>
@@ -1449,13 +1345,11 @@
       <docDate when="1898-11-26">26.11 1898</docDate>
       <docAuthor>F. Doksov</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>4. 12. 1898</date>
       </stage>
@@ -1469,13 +1363,11 @@
       <docDate when="1898-11-21">21.11.1898</docDate>
       <docAuthor>Friderik Emil Vesterstein</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>2. 12. 1898</date>
       </stage>
@@ -1489,13 +1381,11 @@
       <docDate when="1898-11-19">19.11.1898</docDate>
       <docAuthor>G. E. Lessing</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>3. 1. 1899</date>
       </stage>
@@ -1511,11 +1401,9 @@
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -1529,13 +1417,11 @@
       <docDate when="1898-10-04">4.10.1898</docDate>
       <docAuthor>Oscar Blumenthal/Gustav Kadelburg</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>11. 10. 1898</date>
       </stage>
@@ -1549,13 +1435,11 @@
       <docDate when="1898-10-01">1.10.1898</docDate>
       <docAuthor>FulODOBRENO</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>7. 10. 1898</date>
       </stage>
@@ -1569,13 +1453,11 @@
       <docDate when="1898-09-25">25.9.1898</docDate>
       <docAuthor>J. R. Tyl</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
+      
+      
       <label type="politics">DA</label>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
       <stage type="time">
          <date>11. 10. 1898</date>
       </stage>
@@ -1589,7 +1471,7 @@
       <docDate when="1898-09-23">23.9. 1898</docDate>
       <docAuthor>Karl Görlitz </docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
       <label type="politics">DA</label>
       <label type="state_institutions">DA</label>
@@ -1610,12 +1492,10 @@
       <docAuthor>Alexandre-Charles-Auguste Bisson</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>10. 2. 1899</date>
       </stage>
@@ -1629,10 +1509,10 @@
       <docDate when="1898-08-19">19.8.1898</docDate>
       <docAuthor>Francois Dreyfus</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD394</idno>
       </note>
@@ -1649,13 +1529,11 @@
       <docDate when="1898-08-17">17.8.1898</docDate>
       <docAuthor>Franx Grillparzer</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>11. 10. 1898</date>
       </stage>
@@ -1669,13 +1547,11 @@
       <docDate when="1898-08-17">17.8.1898</docDate>
       <docAuthor>Viktor Léon</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>23. 9. 1900</date>
       </stage>
@@ -1689,13 +1565,11 @@
       <docDate when="1898-03-07">7.3.1898</docDate>
       <docAuthor>William Shakespeare</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>21. 9. 1898</date>
       </stage>
@@ -1709,13 +1583,11 @@
       <docDate when="1898-02-02">2.2.1898</docDate>
       <docAuthor>Adolf Wilbrandt</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>18. 3. 1898</date>
       </stage>
@@ -1730,9 +1602,9 @@
       <docAuthor>Roderich Julius Benedix</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD88</idno>
       </note>
@@ -1749,13 +1621,11 @@
       <docDate when="1898-01-03">3.1.1898</docDate>
       <docAuthor>Brachvogel</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>3. 3. 1898</date>
       </stage>
@@ -1769,13 +1639,11 @@
       <docDate when="1899-12-28">28.12.1899</docDate>
       <docAuthor>Ivan Cankar</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>4. 1. 1898</date>
       </stage>
@@ -1790,12 +1658,10 @@
       <docAuthor>William Shakespeare</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
       <stage type="time">
          <date>16. 3. 1900</date>
       </stage>
@@ -1809,13 +1675,11 @@
       <docDate when="1899-12-11">11. 12.1899</docDate>
       <docAuthor>Karl Costa</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>28. 12. 1899</date>
       </stage>
@@ -1829,13 +1693,11 @@
       <docDate when="1899-12-07">7.12.1899</docDate>
       <docAuthor>Anton Aškerc</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>2. 1. 1897</date>
       </stage>
@@ -1849,13 +1711,11 @@
       <docDate when="1899-11-20">20.11.1899</docDate>
       <docAuthor>Josef Jiři Stankovsky</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>19. 1. 1900</date>
       </stage>
@@ -1870,12 +1730,10 @@
       <docAuthor>Henrik Ibsen</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
+      
       <label type="politics">DA</label>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
       <stage type="time">
          <date>2. 12. 1899</date>
       </stage>
@@ -1889,13 +1747,11 @@
       <docDate when="1899-10-10">10.10.1899</docDate>
       <docAuthor>Gerhart Hauptmann</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>7. 11. 1899</date>
       </stage>
@@ -1909,10 +1765,10 @@
       <docDate when="1899-09-21">21.9.1899</docDate>
       <docAuthor>Josip Stritar</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
+      
+      
       <label type="politics">DA</label>
-      <label type="state_institutions"/>
+      
       <note type="idno">
          <idno type="SLOGI">C/DD324</idno>
       </note>
@@ -1929,10 +1785,10 @@
       <docDate when="1899-09-20">20.9.1899</docDate>
       <docAuthor>Eugen Labiche</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
+      
+      
       <label type="politics">DA</label>
-      <label type="state_institutions"/>
+      
       <note type="idno">
          <idno type="SLOGI">DD628</idno>
       </note>
@@ -1949,10 +1805,10 @@
       <docDate when="1899-09-11">11.9.1899</docDate>
       <docAuthor>Filip Langmann</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
       <label type="politics">DA</label>
-      <label type="state_institutions"/>
+      
       <note type="idno">
          <idno type="SLOGI">C/DD574</idno>
       </note>
@@ -1969,13 +1825,11 @@
       <docDate when="1899-03-20">20.3. 1899</docDate>
       <docAuthor>Josip Stritar</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>5. 10. 1899</date>
       </stage>
@@ -1989,13 +1843,11 @@
       <docDate when="1899-03-20">20.3. 1899</docDate>
       <docAuthor>Anton Aškerc</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>20. 3. 1899</date>
       </stage>
@@ -2009,13 +1861,11 @@
       <docDate when="1899-03-20">20.3. 1899</docDate>
       <docAuthor>Engelbert Gangl</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>20. 3. 1899</date>
       </stage>
@@ -2029,13 +1879,11 @@
       <docDate when="1899-03-25">25.3. 1899</docDate>
       <docAuthor>Anton Medved </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>20. 3. 1899</date>
       </stage>
@@ -2049,13 +1897,11 @@
       <docDate when="1899-12-13">13.12.1899</docDate>
       <docAuthor>Fran Govekar</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>26. 3. 1899</date>
       </stage>
@@ -2069,13 +1915,11 @@
       <docDate when="1899-01-13">13.1.1899</docDate>
       <docAuthor>Srgjan Tucić</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>22. 11. 1899</date>
       </stage>
@@ -2089,13 +1933,11 @@
       <docDate when="1900-12-15">15.12.1900</docDate>
       <docAuthor>O. A. Görner</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>13. 1. 1899</date>
       </stage>
@@ -2110,8 +1952,8 @@
       <docAuthor>Max Dreyer</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
       <label type="state_institutions">DA</label>
       <note type="idno">
          <idno type="SLOGI">C/DD 386</idno>
@@ -2129,13 +1971,11 @@
       <docDate when="1900-11-15">15.11.1900</docDate>
       <docAuthor>Oscar Blumenthal/Gustav Kadelburg</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>13. 1. 1903</date>
       </stage>
@@ -2149,13 +1989,11 @@
       <docDate when="1900-11-15">15.11.1900</docDate>
       <docAuthor>Ludwig Held</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>6. 12. 1900</date>
       </stage>
@@ -2169,13 +2007,11 @@
       <docDate when="1900-10-29">29.10.1900</docDate>
       <docAuthor>Ivan Cankar</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>13.12. 1906</date>
       </stage>
@@ -2189,13 +2025,11 @@
       <docDate when="1900-10-17">17.10.1900</docDate>
       <docAuthor>František Ferdinand Šamberk</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>21.10. 1900</date>
       </stage>
@@ -2209,13 +2043,11 @@
       <docDate when="1900-10-18">18.10.1900</docDate>
       <docAuthor>William Shakespeare</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>3. 1.1901</date>
       </stage>
@@ -2229,13 +2061,11 @@
       <docDate when="1900-10-18">18.10.1900</docDate>
       <docAuthor>Gerhart Hauptmann</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>8. 3. 1901</date>
       </stage>
@@ -2249,13 +2079,11 @@
       <docDate when="1900-09-26">26.9.1900</docDate>
       <docAuthor>Ludwig Anzengruber</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
+      
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>27. 9. 1900</date>
       </stage>
@@ -2269,10 +2097,10 @@
       <docDate when="1900-10-06">6.10.1900</docDate>
       <docAuthor>Emil Pohl</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD 571</idno>
       </note>
@@ -2289,13 +2117,11 @@
       <docDate when="1900-09-27">27.9.1900</docDate>
       <docAuthor>Anton Aškerc</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -2309,10 +2135,10 @@
       <docDate when="1900-09-25">25.9.1900</docDate>
       <docAuthor>Ludwig Anzengruber</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD 463</idno>
       </note>
@@ -2329,13 +2155,11 @@
       <docDate when="1900-01-12">12.1.1900</docDate>
       <docAuthor>Benno Jacobson</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>13. 11. 1900</date>
       </stage>
@@ -2349,13 +2173,11 @@
       <docDate when="1901-01-04">4.1.1901</docDate>
       <docAuthor>A. P. Čehov</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -2369,13 +2191,11 @@
       <docDate when="1901-01-07">7.1.1901</docDate>
       <docAuthor>Brandon Thomas</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>17. 1. 1901</date>
       </stage>
@@ -2389,13 +2209,11 @@
       <docDate when="1901-02-26">26.2.1901</docDate>
       <docAuthor>Josip Jurčič/Fran Govekar</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>27.2. 1901</date>
       </stage>
@@ -2409,13 +2227,11 @@
       <docDate when="1901-04-01">1.4.1901</docDate>
       <docAuthor>Gustav Kadelburg</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>8. 3. 1901</date>
       </stage>
@@ -2429,13 +2245,11 @@
       <docDate when="1901-08-17">17.8.1901</docDate>
       <docAuthor>Friedrich Schiller</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>21. 3. 1909</date>
       </stage>
@@ -2449,10 +2263,10 @@
       <docDate when="1901-09-19">19.9.1901</docDate>
       <docAuthor>T. R. Tyl</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">DD700</idno>
       </note>
@@ -2469,13 +2283,11 @@
       <docDate when="1901-09-19">19.9.1901</docDate>
       <docAuthor>Albin Valabrègue/Maurice Hannequin</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>25. 9. 1901</date>
       </stage>
@@ -2489,13 +2301,11 @@
       <docDate when="1901-09-25">25. 9. 1901</docDate>
       <docAuthor>Jacques François Élie Fromental Halévy/Eugene Scribe</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -2509,10 +2319,10 @@
       <docDate when="1901-10-08">8. 10. 1901</docDate>
       <docAuthor>Otto Ernst</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
+      
+      
       <label type="politics">DA</label>
-      <label type="state_institutions"/>
+      
       <note type="idno">
          <idno type="SLOGI">C/DD688</idno>
       </note>
@@ -2529,13 +2339,11 @@
       <docDate when="1901-10-11">11.10. 1901</docDate>
       <docAuthor>Alois Mrštík </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>15.10. 1901</date>
       </stage>
@@ -2549,10 +2357,10 @@
       <docDate when="1901-11-07">7.11.1901</docDate>
       <docAuthor>Michał Bałucki</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD521</idno>
       </note>
@@ -2569,10 +2377,10 @@
       <docDate when="1901-11-28">28.11.1901</docDate>
       <docAuthor>Alexandre-Charles-Auguste Bisson</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD 472</idno>
       </note>
@@ -2589,13 +2397,11 @@
       <docDate when="1901-12-11">11.12.1901</docDate>
       <docAuthor>Peter Rosegger</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>15. 12. 1901</date>
       </stage>
@@ -2609,13 +2415,11 @@
       <docDate when="1901-12-26">26.12.1901</docDate>
       <docAuthor>Gustav Davis</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>2. 1. 1902</date>
       </stage>
@@ -2629,13 +2433,11 @@
       <docDate when="1902-01-17">17.1. 1902</docDate>
       <docAuthor>Friedrich Schiller</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>18.1.1902</date>
       </stage>
@@ -2649,13 +2451,11 @@
       <docDate when="1902-01-24">24.1.1902</docDate>
       <docAuthor>Hermann Sudermann</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>1. 2. 1902</date>
       </stage>
@@ -2669,9 +2469,9 @@
       <docDate when="1902-02-04">4.2.1902</docDate>
       <docAuthor>Karl Costa</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
       <note type="idno">
          <idno type="SLOGI">C/DD 543</idno>
@@ -2689,9 +2489,9 @@
       <docDate when="1902-02-17">17.2.1902</docDate>
       <docAuthor>Fran Detela</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
       <note type="idno">
          <idno type="SLOGI">C/DD 548</idno>
@@ -2709,13 +2509,11 @@
       <docDate when="1902-03-10">10.3.1902</docDate>
       <docAuthor>Fran Saleški Finžgar</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>11. 3. 1902</date>
       </stage>
@@ -2731,8 +2529,8 @@
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD 264</idno>
       </note>
@@ -2749,13 +2547,11 @@
       <docDate when="1902-03-11">11.3.1902</docDate>
       <docAuthor>Eugène Brieux</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>23. 3. 1902</date>
       </stage>
@@ -2769,13 +2565,11 @@
       <docDate when="1902-09-16">16.9. 1902</docDate>
       <docAuthor>Karl August Görner</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>11. 10. 1902</date>
       </stage>
@@ -2789,13 +2583,11 @@
       <docDate when="1902-09-23">23. 9. 1902</docDate>
       <docAuthor>Karl Morré</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
+      
+      
       <label type="politics">DA</label>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
       <stage type="time">
          <date>27. 9. 1902</date>
       </stage>
@@ -2809,13 +2601,11 @@
       <docDate when="1902-09-24">24.9.1902</docDate>
       <docAuthor>Josef Štolba</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>27. 1. 1903</date>
       </stage>
@@ -2830,7 +2620,7 @@
       <docAuthor>Victorien Sardou</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
+      
       <label type="politics">DA</label>
       <label type="state_institutions">DA</label>
       <note type="idno">
@@ -2849,13 +2639,11 @@
       <docDate when="1902-10-01">1.10.1902</docDate>
       <docAuthor>Björnson Bjöernstjerne</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>25. 10. 1902</date>
       </stage>
@@ -2869,13 +2657,11 @@
       <docDate when="1902-10-03">3.10.1902</docDate>
       <docAuthor>Ludwig Krenn</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>18. 12. 1902</date>
       </stage>
@@ -2889,13 +2675,11 @@
       <docDate when="1902-10-03">3.10.1902</docDate>
       <docAuthor>Pierre Berton / Charles Simon</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>25. 11. 1902</date>
       </stage>
@@ -2909,13 +2693,11 @@
       <docDate when="1902-11-20">20.11.1902</docDate>
       <docAuthor>Ludwig Thoma</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>4. 12. 1902</date>
       </stage>
@@ -2929,13 +2711,11 @@
       <docDate when="1902-11-29">29.11.1902</docDate>
       <docAuthor>Alexandre-Charles-Auguste Bisson</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>14. 12. 1902</date>
       </stage>
@@ -2950,12 +2730,10 @@
       <docAuthor>Felicien Cavalotti</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
       <stage type="time">
          <date>2.12. 1902</date>
       </stage>
@@ -2969,13 +2747,11 @@
       <docDate when="1902-12-16">16.12.1902</docDate>
       <docAuthor>Marie Tiede</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>16. 12. 1902</date>
       </stage>
@@ -2989,13 +2765,11 @@
       <docDate when="1902-12-19">19.12.1902</docDate>
       <docAuthor>Wilson Barret</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>23. 12. 1902</date>
       </stage>
@@ -3009,13 +2783,11 @@
       <docDate when="1903-02-14">14.2.1903</docDate>
       <docAuthor>William Shakespeare</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>28. 2. 1903</date>
       </stage>
@@ -3029,13 +2801,11 @@
       <docDate when="1903-09-18">18.9.1903</docDate>
       <docAuthor>Victorien Sardou</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>1. 10. 1903</date>
       </stage>
@@ -3049,13 +2819,11 @@
       <docDate when="1903-09-21">21.9.1903</docDate>
       <docAuthor>H. M. Pauli</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>29. 10. 1903</date>
       </stage>
@@ -3069,13 +2837,11 @@
       <docDate when="1903-09-29">29. 9. 1903</docDate>
       <docAuthor>Oton Faster</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>11. 11. 1903</date>
       </stage>
@@ -3090,9 +2856,9 @@
       <docAuthor>Jan August Kisielewski</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD633</idno>
       </note>
@@ -3109,13 +2875,11 @@
       <docDate when="1903-10-13">13.10.1903</docDate>
       <docAuthor>Karel Želenský</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>27. 10. 1903</date>
       </stage>
@@ -3129,13 +2893,11 @@
       <docDate when="1903-10-19">19.10.1903</docDate>
       <docAuthor>M. A. Šimaček</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>8. 3. 1904</date>
       </stage>
@@ -3149,13 +2911,11 @@
       <docDate when="1903-10-21">21.10.1903</docDate>
       <docAuthor>Paul Bilhaud /Charles-Maurice Hennequin</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>14. 11. 1903</date>
       </stage>
@@ -3170,12 +2930,10 @@
       <docAuthor>L.N. Tolstoj/H. Bataille </docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
       <stage type="time">
          <date>23. 2. 1904</date>
       </stage>
@@ -3189,13 +2947,11 @@
       <docDate when="1903-10-21">21.10.1903</docDate>
       <docAuthor>Fran Govekar</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>10. 11.1903</date>
       </stage>
@@ -3209,13 +2965,11 @@
       <docDate when="1903-11-27">27. 11.1903</docDate>
       <docAuthor>William-Bertrand Busnach/O. Gastineau</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>29.12. 1912</date>
       </stage>
@@ -3229,13 +2983,11 @@
       <docDate when="1903-10-28">28.10. 1903</docDate>
       <docAuthor>Emanuel Bozděch</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>2. 12. 1905</date>
       </stage>
@@ -3250,9 +3002,9 @@
       <docAuthor>Rudolf Lothar</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">DD581</idno>
       </note>
@@ -3269,13 +3021,11 @@
       <docDate when="1903-12-11">11.12.1903</docDate>
       <docAuthor>Friedrich Wilhelm Wolters </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -3289,13 +3039,11 @@
       <docDate when="1903-12-30">30.12.1903</docDate>
       <docAuthor>Ivan Cankar</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>9. 1. 1904</date>
       </stage>
@@ -3309,13 +3057,11 @@
       <docDate when="1904-01-11">11.1.1904</docDate>
       <docAuthor>J. Triesch</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>21. 1. 1904</date>
       </stage>
@@ -3329,13 +3075,11 @@
       <docDate when="1904-04-18">18.4.1904</docDate>
       <docAuthor>Josip Vošnjak </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>21. 1. 1904</date>
       </stage>
@@ -3349,13 +3093,11 @@
       <docDate when="1904-01-20">20. 1. 1904</docDate>
       <docAuthor>Aleksander Fredro</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -3369,13 +3111,11 @@
       <docDate when="1904-01-24">24.1.1904</docDate>
       <docAuthor>Maurice Materlinck</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>18. 2. 1904</date>
       </stage>
@@ -3389,13 +3129,11 @@
       <docDate when="1904-02-09">9.2.1904</docDate>
       <docAuthor>Ludwig Anzengruber</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>14. 2. 1904</date>
       </stage>
@@ -3409,13 +3147,11 @@
       <docDate when="1904-09-22">22.9.1904</docDate>
       <docAuthor>Gabriela Preissova</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>13. 10. 1903</date>
       </stage>
@@ -3429,13 +3165,11 @@
       <docDate when="1904-10-03">3.10.1904</docDate>
       <docAuthor>Henrik Ibsen</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>30. 1. 1906</date>
       </stage>
@@ -3449,13 +3183,11 @@
       <docDate when="1904-09-21">21.9.1904</docDate>
       <docAuthor>Victorien Sardou</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>29. 9. 1904</date>
       </stage>
@@ -3469,13 +3201,11 @@
       <docDate when="1904-09-21">21.9.1904</docDate>
       <docAuthor>Maxim Gorki</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>25. 10. 1904</date>
       </stage>
@@ -3489,13 +3219,11 @@
       <docDate when="1904-09-21">21.9.1904</docDate>
       <docAuthor>Wilson Barret</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>15. 11. 1904</date>
       </stage>
@@ -3510,12 +3238,10 @@
       <docAuthor>Paul Bilhaud /Charles-Maurice Hennequin</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
       <stage type="time">
          <date>18. 11. 1904</date>
       </stage>
@@ -3529,13 +3255,11 @@
       <docDate when="1904-09-30">30. 9. 1904</docDate>
       <docAuthor>Henri-Charles Chivot/Henri Alfred Duru</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>1. 10. 1904</date>
       </stage>
@@ -3551,11 +3275,9 @@
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>24. 11. 1904</date>
       </stage>
@@ -3569,13 +3291,11 @@
       <docDate when="1904-11-22">22.11.1904</docDate>
       <docAuthor>L.N. Tolstoj </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>14. 3. 1904</date>
       </stage>
@@ -3589,13 +3309,11 @@
       <docDate when="1904-10-26">26. 10. 1904</docDate>
       <docAuthor>Maurice Donnay</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>31. 1. 1905</date>
       </stage>
@@ -3609,13 +3327,11 @@
       <docDate when="1904-11-22">22.11.1904</docDate>
       <docAuthor>Jaroslav Kvapil</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>16. 12. 1904</date>
       </stage>
@@ -3629,13 +3345,11 @@
       <docDate when="1904-12-14">14.12.1904</docDate>
       <docAuthor>Fran Milčinski</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>4. 3. 1905</date>
       </stage>
@@ -3649,13 +3363,11 @@
       <docDate when="1904-01-11">11.1.1904</docDate>
       <docAuthor>J.Triesch</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>21. 1. 1904</date>
       </stage>
@@ -3669,13 +3381,11 @@
       <docDate when="1905-05-06">6. 5. 1905</docDate>
       <docAuthor>Fran Govekar</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>6. 1. 1905</date>
       </stage>
@@ -3689,10 +3399,10 @@
       <docDate when="1905-02-09">9. 2. 1905</docDate>
       <docAuthor>Karl Fořt</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">DD 567</idno>
       </note>
@@ -3709,10 +3419,10 @@
       <docDate when="1905-03-20">20. 3. 1905</docDate>
       <docAuthor>Karl Morré</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
+      
+      
       <label type="politics">DA</label>
-      <label type="state_institutions"/>
+      
       <note type="idno">
          <idno type="SLOGI">DD552</idno>
       </note>
@@ -3729,13 +3439,11 @@
       <docDate when="1905-03-21">21.3.1905</docDate>
       <docAuthor>Ludwig Ganghofer</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -3749,13 +3457,11 @@
       <docDate when="1905-09-23">23.9. 1905</docDate>
       <docAuthor>Oscar Wilde</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>2. 11. 1905</date>
       </stage>
@@ -3769,13 +3475,11 @@
       <docDate when="1905-09-13">13. 9. 1905</docDate>
       <docAuthor>Ludwig Anzengruber</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>1. 10. 1905</date>
       </stage>
@@ -3789,13 +3493,11 @@
       <docDate when="1905-09-14">14.9.1905</docDate>
       <docAuthor>Ludwig FulODOBRENO</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>7. 11. 1908</date>
       </stage>
@@ -3809,13 +3511,11 @@
       <docDate when="1905-09-13">13.9.1905</docDate>
       <docAuthor>Arno Holz, Oscar Jerschke</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -3829,10 +3529,10 @@
       <docDate when="1905-09-14">14. 9. 1905</docDate>
       <docAuthor>Hodgson Burnett</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
+      
+      
       <label type="politics">DA</label>
-      <label type="state_institutions"/>
+      
       <note type="idno">
          <idno type="SLOGI">C/DD177</idno>
       </note>
@@ -3849,13 +3549,11 @@
       <docDate when="1905-09-25">25. 9. 1905</docDate>
       <docAuthor>Branislav Nušić</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>2. 11. 1905</date>
       </stage>
@@ -3869,13 +3567,11 @@
       <docDate when="1905-10-10">10.10.1905</docDate>
       <docAuthor>Anton Ohorn</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>21. 10. 1905</date>
       </stage>
@@ -3889,13 +3585,11 @@
       <docDate when="1905-10-26">26.10.1905</docDate>
       <docAuthor>Ernest Gettke/Viktor Leon</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>27. 10. 1905</date>
       </stage>
@@ -3909,13 +3603,11 @@
       <docDate when="1905-10-27">27. 10. 1905</docDate>
       <docAuthor>Franz AODOBRENOm Beyerlein</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>12. 11. 1905</date>
       </stage>
@@ -3929,13 +3621,11 @@
       <docDate when="1905-10-27">27. 10. 1905</docDate>
       <docAuthor>H. Stobitzer</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>9. 11. 1906</date>
       </stage>
@@ -3949,13 +3639,11 @@
       <docDate when="1905-11-15">15. 11. 1905</docDate>
       <docAuthor>Rudolf Hawel</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
+      
+      
       <label type="politics">DA</label>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -3969,9 +3657,9 @@
       <docDate when="1905-12-06">6. 12.1905</docDate>
       <docAuthor>Josip Štolba</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
       <note type="idno">
          <idno type="SLOGI">C/DD539</idno>
@@ -3989,13 +3677,11 @@
       <docDate when="1905-11-13">13. 11. 1905</docDate>
       <docAuthor>Franz von Schönthau</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>21. 11. 1905</date>
       </stage>
@@ -4009,13 +3695,11 @@
       <docDate when="1905-11-27">27. 11. 1905</docDate>
       <docAuthor>L'Arronge</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>2. 1. 1910 TRST</date>
       </stage>
@@ -4029,9 +3713,9 @@
       <docDate when="1905-12-07">7.12. 1905</docDate>
       <docAuthor>Fran Govekar</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
       <note type="idno">
          <idno type="SLOGI">DD64</idno>
@@ -4049,9 +3733,9 @@
       <docDate when="1906-01-10">10. 1. 1906</docDate>
       <docAuthor>Rudolf Hawel</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
       <note type="idno">
          <idno type="SLOGI">DD175</idno>
@@ -4069,10 +3753,10 @@
       <docDate when="1906-01-27">27.1. 1906</docDate>
       <docAuthor>Etbin Kristan</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD532</idno>
       </note>
@@ -4089,13 +3773,11 @@
       <docDate when="1906-02-05">5.2.1906 </docDate>
       <docAuthor>Victor Hugo</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>18. 2. 1906</date>
       </stage>
@@ -4109,13 +3791,11 @@
       <docDate when="1906-02-15">15.02. 1906</docDate>
       <docAuthor>Kurt Kraatz </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>27. 2. 1906</date>
       </stage>
@@ -4129,13 +3809,11 @@
       <docDate when="1906-02-16">16.2.1906</docDate>
       <docAuthor>Ivan SergeevičTurgenjev</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>16. 3. 1906</date>
       </stage>
@@ -4149,13 +3827,11 @@
       <docDate when="1906-03-12">12.3.1906</docDate>
       <docAuthor>Milan Begović</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>16. 3. 1906</date>
       </stage>
@@ -4169,13 +3845,11 @@
       <docDate when="1906-06-16">16.6. 1906</docDate>
       <docAuthor>Jakob Dolinar (Fran Milčinski)</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>6. 2. 1906</date>
       </stage>
@@ -4189,13 +3863,11 @@
       <docDate when="1906-09-28">28.9.1906</docDate>
       <docAuthor>Henrik Ibsen</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>6. 12. 1910</date>
       </stage>
@@ -4209,13 +3881,11 @@
       <docDate when="1906-09-29">29.9.1906</docDate>
       <docAuthor>Gabriele D'Annunzio </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>6. 10. 1906</date>
       </stage>
@@ -4229,13 +3899,11 @@
       <docDate when="1906-10-03">3.10.1906</docDate>
       <docAuthor>August Neinhart</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>9. 10. 1906</date>
       </stage>
@@ -4249,10 +3917,10 @@
       <docDate when="1906-10-13">13.10.1906</docDate>
       <docAuthor>Moliere</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
       <note type="idno">
          <idno type="SLOGI">DD58</idno>
       </note>
@@ -4269,13 +3937,11 @@
       <docDate when="1906-10-17">17.10.1906</docDate>
       <docAuthor>Zofka Kveder</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>16. 10. 1906</date>
       </stage>
@@ -4289,13 +3955,11 @@
       <docDate when="1906-11-16">16.11.1906</docDate>
       <docAuthor>Arturo Castiglioni </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>17. 11. 1906</date>
       </stage>
@@ -4309,13 +3973,11 @@
       <docDate when="1906-12-03">3.12.1906</docDate>
       <docAuthor>Giacinto Gallina</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>4. 12. 1906</date>
       </stage>
@@ -4331,11 +3993,9 @@
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>29. 12. 1906</date>
       </stage>
@@ -4349,13 +4009,11 @@
       <docDate when="1907-01-10">10.1.1907</docDate>
       <docAuthor>Josef Štolba</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>12. 1. 1907</date>
       </stage>
@@ -4369,13 +4027,11 @@
       <docDate when="1907-01-19">19.1.1907</docDate>
       <docAuthor>Alphonse ODOBRENOudet</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>24. 1. 1907</date>
       </stage>
@@ -4389,10 +4045,10 @@
       <docDate when="1907-01-30">30.1.1907</docDate>
       <docAuthor>Octave Mirbeau</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">DD 711</idno>
       </note>
@@ -4409,13 +4065,11 @@
       <docDate when="1907-02-05">5.2.1907</docDate>
       <docAuthor>Emil Rosenow</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>9. 2. 1907</date>
       </stage>
@@ -4429,13 +4083,11 @@
       <docDate when="1907-02-13">13.2.1907</docDate>
       <docAuthor>Henry Bernstein</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>19. 2. 1907</date>
       </stage>
@@ -4449,13 +4101,11 @@
       <docDate when="1907-02-23">23.2.1907</docDate>
       <docAuthor>Bernhard Buchbinder</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>12. 3. 1907</date>
       </stage>
@@ -4469,13 +4119,11 @@
       <docDate when="1907-03-06">6.3. 1907</docDate>
       <docAuthor>Hinko Nučič</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>9. 3. 1907</date>
       </stage>
@@ -4489,13 +4137,11 @@
       <docDate when="1907-05-10">10.5.1907</docDate>
       <docAuthor>Wilhelm Krenzl</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -4509,13 +4155,11 @@
       <docDate when="1907-08-13">13.8.1907</docDate>
       <docAuthor>Franc Schöntan/Gustav Kadelburg</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>22. 10. 1907</date>
       </stage>
@@ -4529,13 +4173,11 @@
       <docDate when="1907-08-16">16.8.1907</docDate>
       <docAuthor>Alexandre Dumas</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -4549,10 +4191,10 @@
       <docDate when="1907-08-16">16.8.1907</docDate>
       <docAuthor>Leopold Lipschütz/ Rudolf Lothar</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">DD383</idno>
       </note>
@@ -4569,9 +4211,9 @@
       <docDate when="1907-08-29">29.8.1907</docDate>
       <docAuthor>Milan Begović</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
       <note type="idno">
          <idno type="SLOGI">DD149</idno>
@@ -4589,13 +4231,11 @@
       <docDate when="1907-09-20">20.9.1907</docDate>
       <docAuthor>Gerolamo Rovetta</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
+      
+      
       <label type="politics">DA</label>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
       <stage type="time">
          <date>18. 1. 1908</date>
       </stage>
@@ -4609,13 +4249,11 @@
       <docDate when="1907-09-27">27.9.1907</docDate>
       <docAuthor>Adolf RobiODOBRENO </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>26. 3. 1908</date>
       </stage>
@@ -4629,13 +4267,11 @@
       <docDate when="1907-09-27">27.9.1907</docDate>
       <docAuthor>Moliere</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -4651,8 +4287,8 @@
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/AD205</idno>
       </note>
@@ -4669,13 +4305,11 @@
       <docDate when="1907-10-11">11.10.1907</docDate>
       <docAuthor>Henry Bernstein</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>18. 10. 1907</date>
       </stage>
@@ -4689,13 +4323,11 @@
       <docDate when="1907-10-24">24.10.1907 </docDate>
       <docAuthor>Grillparzer</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>3. 11. 1907</date>
       </stage>
@@ -4709,10 +4341,10 @@
       <docDate when="1907-10-17">17.10.1907</docDate>
       <docAuthor>Hennequin</docAuthor>
       <label type="accepted">ZAVRNJENO (dovoljeno 1910 pod naslovom Zakonske metode)</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD217</idno>
       </note>
@@ -4729,13 +4361,11 @@
       <docDate when="1907-11-13">13.11.1907</docDate>
       <docAuthor>Jules Verne</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>17. 11. 1907</date>
       </stage>
@@ -4749,13 +4379,11 @@
       <docDate when="1907-11-20">20.11.1907</docDate>
       <docAuthor>Ivan Cankar</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>21. 12. 1907</date>
       </stage>
@@ -4769,9 +4397,9 @@
       <docDate when="1907-11-30">30.11.1907</docDate>
       <docAuthor>Adolf RobiODOBRENO </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
       <note type="idno">
          <idno type="SLOGI">DD712</idno>
@@ -4789,13 +4417,11 @@
       <docDate when="1907-12-03">3.12.1907</docDate>
       <docAuthor>EngelbertGangl</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -4809,13 +4435,11 @@
       <docDate when="1907-12-24">24.12.1907</docDate>
       <docAuthor>Milan Pugelj</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>29. 12 .1907</date>
       </stage>
@@ -4829,13 +4453,11 @@
       <docDate when="1908-01-25">25.1.1908</docDate>
       <docAuthor>William Gillet </docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>1. 2. 1908</date>
       </stage>
@@ -4849,13 +4471,11 @@
       <docDate when="1908-01-31">31.1.1908</docDate>
       <docAuthor>Georges Courteline</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
+      
+      
       <label type="politics">DA</label>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -4869,13 +4489,11 @@
       <docDate when="1908-01-31">31.1.1908</docDate>
       <docAuthor>Octave Mirbeau</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -4889,13 +4507,11 @@
       <docDate when="1908-02-01">1.2.1908</docDate>
       <docAuthor>Cromier</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -4909,13 +4525,11 @@
       <docDate when="1908-02-15">15.2.1908</docDate>
       <docAuthor>Adolf Schwayer</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>15. 2. 1908</date>
       </stage>
@@ -4929,13 +4543,11 @@
       <docDate when="1908-03-02">2. 3. 1908</docDate>
       <docAuthor>Hinko Nučič</docAuthor>
       <label type="accepted">ZAVRNJENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -4949,13 +4561,11 @@
       <docDate when="1908-02-20">20.2.1908</docDate>
       <docAuthor>Moliere</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>23. 2. 1908</date>
       </stage>
@@ -4969,13 +4579,11 @@
       <docDate when="1908-03-09">9.3.1908</docDate>
       <docAuthor>Karl Weiss</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>10. 3. 1908</date>
       </stage>
@@ -4989,13 +4597,11 @@
       <docDate when="1908-04-17">17. 4. 1908</docDate>
       <docAuthor>Stanislaw Przybyszewski</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>11. 2. 1908</date>
       </stage>
@@ -5009,13 +4615,11 @@
       <docDate when="1908-11-04">4.11.1908</docDate>
       <docAuthor>Paul Gavault/Robert Charvey</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>24. 10. 1909</date>
       </stage>
@@ -5029,13 +4633,11 @@
       <docDate when="1908-01-17">17.1.1908</docDate>
       <docAuthor>Ksaver Meško</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>21. 1. 1908</date>
       </stage>
@@ -5049,13 +4651,11 @@
       <docDate when="1909-02-10">10.2.1909</docDate>
       <docAuthor>Charles-Maurice Hennequin</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>11. 2. 1909</date>
       </stage>
@@ -5069,13 +4669,11 @@
       <docDate when="1909-02-15">15.2.1909</docDate>
       <docAuthor>Miroslav Schiller</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>21. 3. 1909</date>
       </stage>
@@ -5089,13 +4687,11 @@
       <docDate when="1909-01-14">14.1.1909</docDate>
       <docAuthor>Catule de Nion</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>16. 1. 1909</date>
       </stage>
@@ -5109,13 +4705,11 @@
       <docDate when="1909-01-22">22.1.1909</docDate>
       <docAuthor>Johan Wolfgang von Goethe</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -5129,13 +4723,11 @@
       <docDate when="1909-03-13">13.3.1909</docDate>
       <docAuthor>Paul Bourget/ André Cury</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>23. 3. 1909</date>
       </stage>
@@ -5149,13 +4741,11 @@
       <docDate when="1909-01-25">25.1.1909</docDate>
       <docAuthor>Ksaverij Andrejev</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>26. 1. 1909</date>
       </stage>
@@ -5169,13 +4759,11 @@
       <docDate when="1909-01-30">30.1.1909</docDate>
       <docAuthor>Vaclac Štech</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>7. 2. 1909</date>
       </stage>
@@ -5189,13 +4777,11 @@
       <docDate when="1909-02-17">17.2.1909</docDate>
       <docAuthor>Ksaver Meško</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
+      
+      
       <label type="politics">DA</label>
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>19. 11. 1909</date>
       </stage>
@@ -5209,10 +4795,10 @@
       <docDate when="1909-01-21">21.1.1909</docDate>
       <docAuthor>Jakob Dolinar</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">DD718</idno>
       </note>
@@ -5229,13 +4815,11 @@
       <docDate when="1909-03-27">27.3.1909</docDate>
       <docAuthor>Otto Faster</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
+      
+      
       <label type="politics">DA</label>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
       <stage type="time">
          <date>1. 4. 1909</date>
       </stage>
@@ -5249,13 +4833,11 @@
       <docDate when="1909-08-24">24.8.1909</docDate>
       <docAuthor>José Echegaray y Eizaguirre</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
+      
+      
       <label type="politics">DA</label>
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>16. 10. 1909</date>
       </stage>
@@ -5269,13 +4851,11 @@
       <docDate when="1909-08-24">24.8.1909</docDate>
       <docAuthor>Michaëlis Sophus</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>2. 10. 1909</date>
       </stage>
@@ -5289,13 +4869,11 @@
       <docDate when="1909-09-26">26.9.1909</docDate>
       <docAuthor>Johann NepomukNestroy</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
+      
+      
       <label type="politics">DA</label>
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>3. 10. 1909</date>
       </stage>
@@ -5309,13 +4887,11 @@
       <docDate when="1909-09-26">26.9.1909</docDate>
       <docAuthor>Gaston Caillavet/Robert Flers</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>9. 10. 1909</date>
       </stage>
@@ -5329,13 +4905,11 @@
       <docDate when="1909-10-15">15.10.1909</docDate>
       <docAuthor>I. Z. Novak (psZagažen)</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>24. 10. 1909</date>
       </stage>
@@ -5349,13 +4923,11 @@
       <docDate when="1909-10-23">23.10.1909</docDate>
       <docAuthor>Etbin Kristan</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>21. 12. 1909</date>
       </stage>
@@ -5369,13 +4941,11 @@
       <docDate when="1909-11-05">5.11.1909</docDate>
       <docAuthor>František Adolf Šubert</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>6. 11. 1909</date>
       </stage>
@@ -5391,8 +4961,8 @@
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD150</idno>
       </note>
@@ -5408,14 +4978,12 @@
       </note>
       <docDate when="1909-11-09">9.11.1909</docDate>
       <docAuthor>Julis Horst/ Alexander engel</docAuthor>
-      <label type="accepted">ODOBRENO*</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      <label type="accepted">ODOBRENO</label>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>2. 12. 1909</date>
       </stage>
@@ -5428,14 +4996,12 @@
       </note>
       <docDate when="1909-11-09">9.11.1909</docDate>
       <docAuthor>Elise Bethge-Truhn</docAuthor>
-      <label type="accepted">ODOBRENO*</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      <label type="accepted">ODOBRENO</label>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>25. 12. 1909</date>
       </stage>
@@ -5448,14 +5014,12 @@
       </note>
       <docDate when="1909-11-09">9.11.1909</docDate>
       <docAuthor>Wiliam Somerset Maugham</docAuthor>
-      <label type="accepted">ODOBRENO*</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      <label type="accepted">ODOBRENO</label>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -5469,13 +5033,11 @@
       <docDate when="1909-12-03">3.12.1909</docDate>
       <docAuthor>Feodor Vitomir Jelenc</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>26. 12. 1909</date>
       </stage>
@@ -5489,13 +5051,11 @@
       <docDate when="1909-12-08">8.12.1909</docDate>
       <docAuthor>Anton Medved </docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>1. 10. 1910</date>
       </stage>
@@ -5509,13 +5069,11 @@
       <docDate when="1909-12-15">15. 12. 1909</docDate>
       <docAuthor>Fran Govekar (ps. Rikard Svoboda)</docAuthor>
       <label type="accepted">ZAVRNJENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -5529,13 +5087,11 @@
       <docDate when="1910-01-03">3.1.1910</docDate>
       <docAuthor>William SomersetMaugham</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -5549,13 +5105,11 @@
       <docDate when="1910-01-07">7.1.1910</docDate>
       <docAuthor>Josef Michaelis</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -5569,13 +5123,11 @@
       <docDate when="1910-01-07">7.1.1910</docDate>
       <docAuthor>Johann Nepomuk Nestroy </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -5589,13 +5141,11 @@
       <docDate when="1910-01-07">7.1.1910</docDate>
       <docAuthor>Anton Medved </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>17. 10. 1909</date>
       </stage>
@@ -5609,13 +5159,11 @@
       <docDate when="1910-01-07">7.1.1910</docDate>
       <docAuthor>A.P.Čehov</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>25. 11. 1909</date>
       </stage>
@@ -5629,13 +5177,11 @@
       <docDate when="1910-01-07">7.1.1910</docDate>
       <docAuthor>Heinrich Hauben</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -5649,13 +5195,11 @@
       <docDate when="1910-01-07">7.1.1910</docDate>
       <docAuthor>Egon Walter Berk</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>12. 12 .1909</date>
       </stage>
@@ -5669,10 +5213,10 @@
       <docDate when="1910-01-13">13.1.1910</docDate>
       <docAuthor>Gabriela Zapolska </docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
       <note type="idno">
          <idno type="SLOGI">AD271</idno>
       </note>
@@ -5689,13 +5233,11 @@
       <docDate when="1910-01-19">19.1.1910</docDate>
       <docAuthor>Björnson Bjöernstjerne</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>29. 1. 1910</date>
       </stage>
@@ -5709,13 +5251,11 @@
       <docDate when="1910-01-19">19.1.1910</docDate>
       <docAuthor>Henry Bataille</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>6. 2. 1910</date>
       </stage>
@@ -5729,13 +5269,11 @@
       <docDate when="1910-01-25">25.1.1910</docDate>
       <docAuthor>Maurice Materlinck</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>29. 1. 1910</date>
       </stage>
@@ -5751,11 +5289,9 @@
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>10. 3. 1910</date>
       </stage>
@@ -5769,13 +5305,11 @@
       <docDate when="1910-02-28">28.2.1910</docDate>
       <docAuthor>William Shakespeare</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>5. 3 .1910</date>
       </stage>
@@ -5789,13 +5323,11 @@
       <docDate when="1910-03-14">14.3. 1910</docDate>
       <docAuthor>Roberto Bracco</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>17. 3. 1910</date>
       </stage>
@@ -5809,13 +5341,11 @@
       <docDate when="1910-03-22">22.3.1910</docDate>
       <docAuthor>Jakob Špicar</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>28. 3. 1910</date>
       </stage>
@@ -5828,14 +5358,12 @@
       </note>
       <docDate when="1910-04-18">18.4.1910</docDate>
       <docAuthor>Josip Drenovec</docAuthor>
-      <label type="accepted">ODOBRENO*</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      <label type="accepted">ODOBRENO</label>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -5848,14 +5376,12 @@
       </note>
       <docDate when="1910-04-18">18.4.1910</docDate>
       <docAuthor>Etbin Kristan</docAuthor>
-      <label type="accepted">ODOBRENO*</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      <label type="accepted">ODOBRENO</label>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>???</date>
       </stage>
@@ -5868,14 +5394,12 @@
       </note>
       <docDate when="1910-04-18">18.4.1910</docDate>
       <docAuthor>Gustav Kadelburg</docAuthor>
-      <label type="accepted">ODOBRENO*</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      <label type="accepted">ODOBRENO</label>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>22. 2 .1909</date>
       </stage>
@@ -5888,14 +5412,12 @@
       </note>
       <docDate when="1910-04-18">18.4.1910</docDate>
       <docAuthor>Jack Freund</docAuthor>
-      <label type="accepted">ODOBRENO*</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      <label type="accepted">ODOBRENO</label>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -5908,14 +5430,12 @@
       </note>
       <docDate when="1910-04-18">18.4.1910</docDate>
       <docAuthor>L. J. Rudisch/O. Praem</docAuthor>
-      <label type="accepted">ODOBRENO*</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      <label type="accepted">ODOBRENO</label>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -5929,13 +5449,11 @@
       <docDate when="1910-12-15">15.12.1910</docDate>
       <docAuthor>Ivan Cankar</docAuthor>
       <label type="accepted">ZAVRNJENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -5949,13 +5467,11 @@
       <docDate when="1910-07-07">7.7.1910</docDate>
       <docAuthor>Hannequinn/Veber</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>12. 11. 1910</date>
       </stage>
@@ -5969,13 +5485,11 @@
       <docDate when="1910-08-04">4.8.1910</docDate>
       <docAuthor>František Adolf Šubert</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -5989,13 +5503,11 @@
       <docDate when="1910-09-06">6.9.1910</docDate>
       <docAuthor>Alexandre-Charles-Auguste Bisson</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>11. 10. 1910</date>
       </stage>
@@ -6009,10 +5521,10 @@
       <docDate when="1910-09-06">6.9.1910</docDate>
       <docAuthor>Lev G. Birinski</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/AD170</idno>
       </note>
@@ -6029,13 +5541,11 @@
       <docDate when="1910-09-19">19.9.1910</docDate>
       <docAuthor>Ludwig Thoma</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>18. 10. 1910</date>
       </stage>
@@ -6049,13 +5559,11 @@
       <docDate when="1910-09-19">19.9.1910</docDate>
       <docAuthor>Jakob Špicar </docAuthor>
       <label type="accepted">NE</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -6069,10 +5577,10 @@
       <docDate when="1910-09-19">19.9.1910</docDate>
       <docAuthor>Menyhért Lengyel</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
       <note type="idno">
          <idno type="SLOGI">AD/32</idno>
       </note>
@@ -6089,13 +5597,11 @@
       <docDate when="1910-09-24">24.9.1910</docDate>
       <docAuthor>Rudolf Járosý</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -6109,13 +5615,11 @@
       <docDate when="1910-09-24">24.9.1910</docDate>
       <docAuthor>Zofka Kveder</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -6129,13 +5633,11 @@
       <docDate when="1910-10-15">15.10.1910</docDate>
       <docAuthor>Božena Viková-Kunetická</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>18. 10. 1910</date>
       </stage>
@@ -6149,13 +5651,11 @@
       <docDate when="1910-08-17">17.8.1910</docDate>
       <docAuthor>Arthur Schnitzler</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>5. 11. 1910</date>
       </stage>
@@ -6169,13 +5669,11 @@
       <docDate when="1910-12-24">24.12.1910</docDate>
       <docAuthor>Francis Croisset/Mauerice Leblanc</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>26. 11. 1910</date>
       </stage>
@@ -6189,13 +5687,11 @@
       <docDate when="1910-12-19">19.12.1910</docDate>
       <docAuthor>ODOBRENOrio Nicodemi</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>7. 1. 1911</date>
       </stage>
@@ -6209,10 +5705,10 @@
       <docDate when="1910-12-19">19.12.1910</docDate>
       <docAuthor>Etbin Kristan</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">C /AD135</idno>
       </note>
@@ -6229,13 +5725,11 @@
       <docDate when="1911-01-10">10.1.1911</docDate>
       <docAuthor>Rudolf Hawel</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>14. 1. 1911</date>
       </stage>
@@ -6249,10 +5743,10 @@
       <docDate when="1911-01-09">9.1.1911</docDate>
       <docAuthor>Ferenc Herczeg</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD639</idno>
       </note>
@@ -6270,8 +5764,8 @@
       <docAuthor>Gerhart Hauptmann</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">ODOBRENO</label>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
       <label type="state_institutions">DA</label>
       <note type="idno">
          <idno type="SLOGI">C/DD97</idno>
@@ -6289,13 +5783,11 @@
       <docDate when="1911-02-18">18.2.1911</docDate>
       <docAuthor>Jaroslav Vrhlicky</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>25. 2. 1911</date>
       </stage>
@@ -6309,13 +5801,11 @@
       <docDate when="1911-02-24">24.2.1911</docDate>
       <docAuthor>Ivo Vojnović</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>11. 3. 1911</date>
       </stage>
@@ -6329,10 +5819,10 @@
       <docDate when="1911-03-07">7.3.1911</docDate>
       <docAuthor>Fran Govekar</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD646</idno>
       </note>
@@ -6348,14 +5838,12 @@
       </note>
       <docDate when="1911-04-09">9. 4. 1911</docDate>
       <docAuthor>Anton Medved </docAuthor>
-      <label type="accepted">ODOBRENO*</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      <label type="accepted">ODOBRENO</label>
+      
+      
+      
+      
+      
       <stage type="time">
          <date/>
       </stage>
@@ -6370,12 +5858,10 @@
       <docAuthor>Lojz Kraigher</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -6389,13 +5875,11 @@
       <docDate when="1911-09-09">9.9.1911</docDate>
       <docAuthor>Johann Nepomuk Nestroy </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>1. 10. 1911</date>
       </stage>
@@ -6410,9 +5894,9 @@
       <docAuthor>Henri LaveODOBRENOn</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">C /DD716</idno>
       </note>
@@ -6429,13 +5913,11 @@
       <docDate when="1911-09-02">2.9.1911</docDate>
       <docAuthor>Giuseppe Giacosa</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>28. 9. 1911</date>
       </stage>
@@ -6449,13 +5931,11 @@
       <docDate when="1911-09-09">9.9.1911</docDate>
       <docAuthor>Victor Hugo</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>16. 9. 1911</date>
       </stage>
@@ -6469,13 +5949,11 @@
       <docDate when="1911-09-08">8.9.1911</docDate>
       <docAuthor>Karl von Schönherr</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>23. 11. 1911</date>
       </stage>
@@ -6488,14 +5966,12 @@
       </note>
       <docDate when="1911-09-10">10.9.1911</docDate>
       <docAuthor>Jaroslav Hilbert</docAuthor>
-      <label type="accepted">ODOBRENO*</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      <label type="accepted">ODOBRENO</label>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>7. 10. 1911</date>
       </stage>
@@ -6509,13 +5985,11 @@
       <docDate when="1911-10-12">12.10.1911</docDate>
       <docAuthor>Rudolf Strauss</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>15. 10. 1911</date>
       </stage>
@@ -6529,13 +6003,11 @@
       <docDate when="1911-10-04">4.10.1911</docDate>
       <docAuthor>Ludwig Thoma</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>14. 11. 1911</date>
       </stage>
@@ -6549,13 +6021,11 @@
       <docDate when="1911-11-12">12.11.1911</docDate>
       <docAuthor>Julius Horst </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>19. 11. 1911</date>
       </stage>
@@ -6569,13 +6039,11 @@
       <docDate when="1911-11-07">7.11.1911</docDate>
       <docAuthor>Max Halbe</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>2. 12. 1911</date>
       </stage>
@@ -6589,13 +6057,11 @@
       <docDate when="1911-11-28">28.11.1911</docDate>
       <docAuthor>Anton Pesek</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>3. 12. 1911</date>
       </stage>
@@ -6609,13 +6075,11 @@
       <docDate when="1911-12-06">6.12. 1911</docDate>
       <docAuthor>Vitomir Feodor Jelenc</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>10. 12. 1911</date>
       </stage>
@@ -6629,13 +6093,11 @@
       <docDate when="1911-12-15">15.12.1911</docDate>
       <docAuthor>Walter Christmas</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>16. 12. 1911</date>
       </stage>
@@ -6649,13 +6111,11 @@
       <docDate when="1911-12-16">16.12.1911</docDate>
       <docAuthor>William Shakespeare</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>26. 12. 1911</date>
       </stage>
@@ -6669,13 +6129,11 @@
       <docDate when="1912-01-05">5. 1. 1912</docDate>
       <docAuthor>F. Rodion (Ferdo Kozak)</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>5.12.1912</date>
       </stage>
@@ -6689,13 +6147,11 @@
       <docDate when="1913-01-03">3.1.1913</docDate>
       <docAuthor>Marie Tiede</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>6. 1. 1913</date>
       </stage>
@@ -6709,13 +6165,11 @@
       <docDate when="1912-01-12">12.1.1912</docDate>
       <docAuthor>Jerome Klapka Jerome</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>21. 1. 1911</date>
       </stage>
@@ -6729,13 +6183,11 @@
       <docDate when="1912-01-12">12.1.1912</docDate>
       <docAuthor>A. Engel/ J. Horst</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>14. 1. 1912</date>
       </stage>
@@ -6749,13 +6201,11 @@
       <docDate when="1912-01-13">13.1.1912</docDate>
       <docAuthor>Franz Molnar</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>20. 1. 1912</date>
       </stage>
@@ -6769,13 +6219,11 @@
       <docDate when="1912-01-30">30.1.1912</docDate>
       <docAuthor>Ivan Cankar</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>27. 1. 1912</date>
       </stage>
@@ -6789,13 +6237,11 @@
       <docDate when="1912-01-30">30.1.1912</docDate>
       <docAuthor>Hermann Bahr</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>4. 2. 1912</date>
       </stage>
@@ -6809,13 +6255,11 @@
       <docDate when="1912-02-09">9.2.1912</docDate>
       <docAuthor>Henrik Ibsen</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>10. 10. 1912</date>
       </stage>
@@ -6829,13 +6273,11 @@
       <docDate when="1912-02-15">15. 2. .1912</docDate>
       <docAuthor>Georges Berr</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>17. 2. 1912</date>
       </stage>
@@ -6849,13 +6291,11 @@
       <docDate when="1912-02-26">26.2.1912</docDate>
       <docAuthor>Anton Funtek</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>2. 3. 1912</date>
       </stage>
@@ -6869,13 +6309,11 @@
       <docDate when="1912-02-26">26.2.1912</docDate>
       <docAuthor>Jose </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>27.2. 1912</date>
       </stage>
@@ -6889,10 +6327,10 @@
       <docDate when="1912-02-26">26.2. 1912</docDate>
       <docAuthor>Moncton Hoffe</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD632</idno>
       </note>
@@ -6909,13 +6347,11 @@
       <docDate when="1912-03-05">5.3. 1912</docDate>
       <docAuthor>Etbin Kristan</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>16. 3. 1912</date>
       </stage>
@@ -6929,13 +6365,11 @@
       <docDate when="1912-03-12">12.3.1912</docDate>
       <docAuthor>Arthur Schnitzler</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>15. 1. 1914</date>
       </stage>
@@ -6949,13 +6383,11 @@
       <docDate when="1912-03-22">22.3.1912</docDate>
       <docAuthor>Lev N. Tolstoj</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>31. 3. 1912</date>
       </stage>
@@ -6969,13 +6401,11 @@
       <docDate when="1912-03-22">22.3.1912</docDate>
       <docAuthor>Calderon de la Barca</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>1. 10. 1912</date>
       </stage>
@@ -6989,10 +6419,10 @@
       <docDate when="1912-09-25">25.9.1912</docDate>
       <docAuthor>Georges Courteline</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/AD95</idno>
       </note>
@@ -7009,13 +6439,11 @@
       <docDate when="1912-09-25">25.9.1912</docDate>
       <docAuthor>Gabriel Pregelj</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>14. 11. 1912</date>
       </stage>
@@ -7029,13 +6457,11 @@
       <docDate when="1912-09-25">25.9.1912</docDate>
       <docAuthor>Franz Molnar</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>29. 10. 1912</date>
       </stage>
@@ -7049,13 +6475,11 @@
       <docDate when="1912-09-25">25.9.1912</docDate>
       <docAuthor>Julius Magnussen/Paul Sarauw </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>10. 10. 1912</date>
       </stage>
@@ -7069,13 +6493,11 @@
       <docDate when="1912-09-28">28.9.1912</docDate>
       <docAuthor>Rihard Skovronneck</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>17. 10. 1912</date>
       </stage>
@@ -7089,13 +6511,11 @@
       <docDate when="1912-10-14">14.10.1912</docDate>
       <docAuthor>Hermann Sudermann</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>19.10. 1912</date>
       </stage>
@@ -7109,10 +6529,10 @@
       <docDate when="1912-11-02">2.11.1912</docDate>
       <docAuthor>Ostrovski</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/AD63</idno>
       </note>
@@ -7129,13 +6549,11 @@
       <docDate when="1912-11-22">22.11.1912</docDate>
       <docAuthor>Richard Oswald/ Julius Philipp</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>24. 11. 1912</date>
       </stage>
@@ -7149,13 +6567,11 @@
       <docDate when="1912-12-02">2.12.1912</docDate>
       <docAuthor>H. Drinkler</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>1. 12. 1912</date>
       </stage>
@@ -7169,13 +6585,11 @@
       <docDate when="1912-12-12">12.12. 1912</docDate>
       <docAuthor>William Shakespeare</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date/>
       </stage>
@@ -7188,14 +6602,12 @@
       </note>
       <docDate when="1912-12-02">2.12.1912</docDate>
       <docAuthor>A. P. Čehov</docAuthor>
-      <label type="accepted">ODOBRENO*</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      <label type="accepted">ODOBRENO</label>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>22. 12. 1912</date>
       </stage>
@@ -7209,13 +6621,11 @@
       <docDate when="1912-12-20">20.12.1912</docDate>
       <docAuthor>Georges Courteline</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>31. 12. 1912</date>
       </stage>
@@ -7230,9 +6640,9 @@
       <docAuthor>Avgust Strindberg</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">ODOBRENO</label>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/AD233</idno>
       </note>
@@ -7249,13 +6659,11 @@
       <docDate when="1912-12-05">5.12.1912</docDate>
       <docAuthor>Anton Medved </docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -7269,13 +6677,11 @@
       <docDate when="1913-01-05">5.1.1913</docDate>
       <docAuthor>W. B.</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -7289,13 +6695,11 @@
       <docDate when="1913-01-08">8.1.1913</docDate>
       <docAuthor>Karl Weis</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -7309,10 +6713,10 @@
       <docDate when="1913-01-13">13.1.1913</docDate>
       <docAuthor>Paul GavaultMala</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/AD 231</idno>
       </note>
@@ -7331,8 +6735,8 @@
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/AD194</idno>
       </note>
@@ -7349,13 +6753,11 @@
       <docDate when="1913-02-14">14.2.1913</docDate>
       <docAuthor>Sem Benelli</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>6. 3. 1913</date>
       </stage>
@@ -7369,10 +6771,10 @@
       <docDate when="1913-02-23">23.2.1913</docDate>
       <docAuthor>C. M. Jacoby</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD671</idno>
       </note>
@@ -7389,13 +6791,11 @@
       <docDate when="1913-03-07">7.3.1913</docDate>
       <docAuthor>EngelbertGangl</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -7410,12 +6810,10 @@
       <docAuthor>Oskar Walther/ Leo Stein</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
       <stage type="time">
          <date>15. 3. 1913</date>
       </stage>
@@ -7430,12 +6828,10 @@
       <docAuthor>Zvonimir Masle</docAuthor>
       <label type="accepted">ODOBRENO</label>
       <label type="morality">DA</label>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -7449,13 +6845,11 @@
       <docDate when="1913-11-18">18.11.1913</docDate>
       <docAuthor>Branislav Nušić</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>4. 12. 1913</date>
       </stage>
@@ -7469,13 +6863,11 @@
       <docDate when="1913-01-16">16. 1. 1913</docDate>
       <docAuthor>Obloški</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date/>
       </stage>
@@ -7489,13 +6881,11 @@
       <docDate when="1913-10-29">29.10.1913</docDate>
       <docAuthor>Anton Funtek</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>31.10. 1913</date>
       </stage>
@@ -7509,10 +6899,10 @@
       <docDate when="1914-03-21">21.3.1914</docDate>
       <docAuthor>Max Neal/Max Ferner</docAuthor>
       <label type="accepted">POGOJNO ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
+      
+      
+      
+      
       <note type="idno">
          <idno type="SLOGI">C/DD788</idno>
       </note>
@@ -7529,13 +6919,11 @@
       <docDate when="1914-03-20">20.3.1914</docDate>
       <docAuthor>Marko Praga</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>29. 3. 1914</date>
       </stage>
@@ -7549,13 +6937,11 @@
       <docDate when="1914-03-17">17.3.1914</docDate>
       <docAuthor>Jožef Rihar</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -7569,13 +6955,11 @@
       <docDate when="1914-03-05">5.3. 1914</docDate>
       <docAuthor>Avtor ni naveden</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -7589,13 +6973,11 @@
       <docDate when="1914-06-21">21.6.1914</docDate>
       <docAuthor>Oskar Blumenthal/Gustav Kadelburg</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>15. 3. 1914</date>
       </stage>
@@ -7609,13 +6991,11 @@
       <docDate when="1914-03-06">6.3. 1914</docDate>
       <docAuthor>Avtor ni naveden</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -7629,13 +7009,11 @@
       <docDate when="1914-02-20">20.2.1914</docDate>
       <docAuthor>ODOBRENOrio Nicodemi</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>7. 4. 1914</date>
       </stage>
@@ -7649,13 +7027,11 @@
       <docDate when="1914-02-20">20.2.1914</docDate>
       <docAuthor>Leon Haurof</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -7669,13 +7045,11 @@
       <docDate when="1914-02-13">13.2.1914</docDate>
       <docAuthor>Victor Cyril/Maurice Froyes</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -7689,13 +7063,11 @@
       <docDate when="1914-02-13">13.2.1914</docDate>
       <docAuthor>Georges Courteline</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>17. 6. 1919</date>
       </stage>
@@ -7709,13 +7081,11 @@
       <docDate when="1914-02-12">12.2.1914</docDate>
       <docAuthor>Karl Laufs/Viljem Jacobi</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
       <stage type="time">
          <date>15. 2. 1914</date>
       </stage>
@@ -7729,13 +7099,11 @@
       <docDate when="1914-02-06">6.2.1914</docDate>
       <docAuthor>Gustav Wied</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
+      
+      
+      
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>26. 2. 1914</date>
       </stage>
@@ -7749,13 +7117,11 @@
       <docDate when="1914-01-31">31.1.1914</docDate>
       <docAuthor>Johann Nepomuk Nestroy /Jan Werich</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -7769,13 +7135,11 @@
       <docDate when="1914-01-20">20.1.1914</docDate>
       <docAuthor>Huber</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -7789,13 +7153,11 @@
       <docDate when="1914-01-03">3.1.1914</docDate>
       <docAuthor>Emil Gumpe/Karl Krieg</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>28. 12. 1913</date>
       </stage>
@@ -7809,13 +7171,11 @@
       <docDate when="1914-01-01">1.1.1914</docDate>
       <docAuthor>Avtor ni naveden</docAuthor>
       <label type="accepted">ODOBRENO</label>
-      <label type="morality"/>
-      <label type="church"/>
-      <label type="politics"/>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
+      
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -7829,13 +7189,11 @@
       <docDate when="1908-03-02">2.3.1908 </docDate>
       <docAuthor>Hinko Nučič</docAuthor>
       <label type="accepted">ZAVRNJENO</label>
-      <label type="morality"/>
-      <label type="church"/>
+      
+      
       <label type="politics">DA</label>
-      <label type="state_institutions"/>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
+      
       <stage type="time">
          <date>NE</date>
       </stage>
@@ -7849,20 +7207,44 @@
       <docDate when="1904-02-29">29.2.1904</docDate>
       <docAuthor>Fran Levstik</docAuthor>
       <label type="accepted"/>
-      <label type="morality"/>
+      
       <label type="church">DA</label>
-      <label type="politics"/>
+      
       <label type="state_institutions">DA</label>
-      <note type="idno">
-         <idno type="SLOGI"/>
-      </note>
+      
       <stage type="time">
          <date>DA</date>
       </stage>
 <!--   <figure type="appPDF" xml:id="figure-388"><graphic url="https://www2.sistory.si/publikacije/razstave/Cenzura/pdf/AS16_168a_5021.pdf"/></figure>-->
 </div>
+         <div xml:id="AS16_168_b_413" facs="AS16_168_b_413">
+            <head>Tugomer</head>            
+            <note type="idno">
+               <idno type="ARS">AS16_168_b_413</idno>
+            </note>
+            <docDate when="1900-01-14">14.1.1900</docDate>
+            <docAuthor>Josip Jurčič</docAuthor>
+            <label type="accepted">ZAVRNJENO</label>
+            
+            <label type="politics">DA</label>
+            
+            <label type="state_institutions">DA</label>
+            <figure type="appPDF" xml:id="figure-389"><graphic url="https://www2.sistory.si/publikacije/razstave/Cenzura/pdf/AS16_168_b_413.pdf"/></figure>
+         </div>
 </body>
       <back>
+         <div type="appendix" xml:id="Priloge01">
+            <head>Vizualizacije</head>
+            <figure>
+               <graphic url="viz1.jpg" rend="inline"/>
+            </figure>
+            <figure>
+               <graphic url="viz2.jpg" rend="inline"/>
+            </figure>
+            <figure>
+               <graphic url="viz3.jpg" rend="inline"/>
+            </figure>
+         </div>
          <divGen type="index" xml:id="main">
             <head>Dela</head>
          </divGen>
